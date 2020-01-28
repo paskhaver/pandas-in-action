@@ -1,0 +1,783 @@
+Rank,Title,Studio,Gross,Year
+1,Avengers: Endgame,Buena Vista,"$2,796.30 ",2019
+2,Avatar,Fox,"$2,789.70 ",2009
+3,Titanic,Paramount,"$2,187.50 ",1997
+4,Star Wars: The Force Awakens,Buena Vista,"$2,068.20 ",2015
+5,Avengers: Infinity War,Buena Vista,"$2,048.40 ",2018
+6,Jurassic World,Universal,"$1,671.70 ",2015
+7,Marvel's The Avengers,Buena Vista,"$1,518.80 ",2012
+8,Furious 7,Universal,"$1,516.00 ",2015
+9,Avengers: Age of Ultron,Buena Vista,"$1,405.40 ",2015
+10,Black Panther,Buena Vista,"$1,346.90 ",2018
+11,Harry Potter and the Deathly Hallows Part 2,Warner Brothers,"$1,341.70 ",2011
+12,Star Wars: The Last Jedi,Buena Vista,"$1,332.50 ",2017
+13,Jurassic World: Fallen Kingdom,Universal,"$1,309.50 ",2018
+14,Frozen,Buena Vista,"$1,276.50 ",2013
+15,Beauty and the Beast,Buena Vista,"$1,263.50 ",2017
+16,Incredibles 2,Buena Vista,"$1,242.80 ",2018
+17,The Fate of the Furious,Universal,"$1,236.00 ",2017
+18,Iron Man 3,Buena Vista,"$1,214.80 ",2013
+19,Minions,Universal,"$1,159.40 ",2015
+20,Captain America: Civil War,Buena Vista,"$1,153.30 ",2016
+21,Aquaman,Warner Brothers,"$1,148.00 ",2018
+22,Captain Marvel,Buena Vista,"$1,128.30 ",2019
+23,Transformers: Dark of the Moon,Paramount,"$1,123.80 ",2011
+24,The Lord of the Rings: The Return of the King,New Line,"$1,119.90 ",2003
+25,Skyfall,Sony,"$1,108.60 ",2012
+26,Transformers: Age of Extinction,Paramount,"$1,104.10 ",2014
+27,The Dark Knight Rises,Warner Brothers,"$1,084.90 ",2012
+28,Toy Story 3,Buena Vista,"$1,067.00 ",2010
+29,Pirates of the Caribbean: Dead Man's Chest,Buena Vista,"$1,066.20 ",2006
+30,Rogue One: A Star Wars Story,Buena Vista,"$1,056.10 ",2016
+31,Pirates of the Caribbean: On Stranger Tides,Buena Vista,"$1,045.70 ",2011
+32,Despicable Me 3,Universal,"$1,034.80 ",2017
+33,Jurassic Park,Universal,"$1,029.50 ",1993
+34,Finding Dory,Buena Vista,"$1,028.60 ",2016
+35,Star Wars: Episode I - The Phantom Menace,Fox,"$1,027.00 ",1999
+36,Alice in Wonderland,Buena Vista,"$1,025.50 ",2010
+37,Zootopia,Buena Vista,"$1,023.80 ",2016
+38,The Hobbit: An Unexpected Journey,Warner Brothers,"$1,021.10 ",2012
+39,The Dark Knight,Warner Brothers,"$1,004.90 ",2008
+40,Harry Potter and the Sorcerer's Stone,Warner Brothers,$975.10 ,2001
+41,Despicable Me 2,Universal,$970.80 ,2013
+42,The Lion King,Buena Vista,$968.50 ,1994
+43,The Jungle Book,Buena Vista,$966.60 ,2016
+44,Pirates of the Caribbean: At World's End,Buena Vista,$963.40 ,2007
+45,Jumanji: Welcome to the Jungle,Sony,$962.10 ,2017
+46,Harry Potter and the Deathly Hallows Part 1,Warner Brothers,$960.40 ,2010
+47,The Hobbit: The Desolation of Smaug,Warner Brothers,$958.40 ,2013
+48,The Hobbit: The Battle of the Five Armies,Warner Brothers,$956.00 ,2014
+49,Finding Nemo,Buena Vista,$940.30 ,2003
+50,Harry Potter and the Order of the Phoenix,Warner Brothers,$940.00 ,2007
+51,Harry Potter and the Half-Blood Prince,Warner Brothers,$934.50 ,2009
+52,The Lord of the Rings: The Two Towers,New Line,$926.00 ,2002
+53,Shrek 2,Dreamworks,$919.80 ,2004
+54,Bohemian Rhapsody,Fox,$903.70 ,2018
+55,Harry Potter and the Goblet of Fire,Warner Brothers,$897.10 ,2005
+56,Spider-Man 3,Sony,$890.90 ,2007
+57,Ice Age: Dawn of the Dinosaurs,Fox,$886.70 ,2009
+58,Spectre,Sony,$880.70 ,2015
+59,Aladdin,Buena Vista,$880.20 ,2019
+60,Spider-Man: Homecoming,Sony,$880.20 ,2017
+61,Harry Potter and the Chamber of Secrets,Warner Brothers,$879.20 ,2002
+62,Ice Age: Continental Drift,Fox,$877.20 ,2012
+63,The Secret Life of Pets,Universal,$875.50 ,2016
+64,Batman v Superman: Dawn of Justice,Warner Brothers,$873.60 ,2016
+65,The Lord of the Rings: The Fellowship of the Ring,New Line,$871.50 ,2001
+66,Wolf Warrior 2,HC,$870.30 ,2017
+67,The Hunger Games: Catching Fire,Lionsgate,$865.00 ,2013
+68,Guardians of the Galaxy Vol. 2,Buena Vista,$863.80 ,2017
+69,Inside Out,Buena Vista,$857.60 ,2015
+70,Venom,Sony,$855.00 ,2018
+71,Thor: Ragnarok,Buena Vista,$854.00 ,2017
+72,Star Wars: Episode III - Revenge of the Sith,Fox,$848.80 ,2005
+73,Transformers: Revenge of the Fallen,Paramount,$836.30 ,2009
+74,The Twilight Saga: Breaking Dawn Part 2,Lionsgate,$829.70 ,2012
+75,Inception,Warner Brothers,$828.30 ,2010
+76,Wonder Woman,Warner Brothers,$821.80 ,2017
+77,Spider-Man,Sony,$821.70 ,2002
+78,Independence Day,Fox,$817.40 ,1996
+79,Fantastic Beasts and Where To Find Them,Warner Brothers,$814.00 ,2016
+80,Coco,Buena Vista,$807.10 ,2017
+81,Shrek the Third,Dreamworks,$799.00 ,2007
+82,Harry Potter and the Prisoner of Azkaban,Warner Brothers,$796.90 ,2004
+83,Pirates of the Caribbean: Dead Men Tell No Tales,Buena Vista,$794.90 ,2017
+84,E.T.: The Extra-Terrestrial,Universal,$792.90 ,1982
+85,Mission: Impossible - Fallout,Paramount,$791.10 ,2018
+86,Fast & Furious 6,Universal,$788.70 ,2013
+87,Indiana Jones and the Kingdom of the Crystal Skull,Paramount,$786.60 ,2008
+88,Deadpool 2,Fox,$785.00 ,2018
+89,Spider-Man 2,Sony,$783.80 ,2004
+90,Deadpool,Fox,$783.10 ,2016
+91,Star Wars,Fox,$775.40 ,1977
+92,Guardians of the Galaxy,Buena Vista,$773.30 ,2014
+93,2012,Sony,$769.70 ,2009
+94,Maleficent,Buena Vista,$758.50 ,2014
+95,The Da Vinci Code,Sony,$758.20 ,2006
+96,The Amazing Spider-Man,Sony,$757.90 ,2012
+97,The Hunger Games: Mockingjay - Part 1,Lionsgate,$755.40 ,2014
+98,Shrek Forever After,Dreamworks,$752.60 ,2010
+99,X-Men: Days of Future Past,Fox,$747.90 ,2014
+100,Madagascar 3: Europe's Most Wanted,Dreamworks,$746.90 ,2012
+101,Suicide Squad,Warner Brothers,$746.80 ,2016
+102,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Buena Vista,$745.00 ,2005
+103,Monsters University,Buena Vista,$744.20 ,2013
+104,The Matrix Reloaded,Warner Brothers,$742.10 ,2003
+105,Up,Buena Vista,$735.10 ,2009
+106,Gravity,Warner Brothers,$723.20 ,2013
+107,Captain America: The Winter Soldier,Buena Vista,$714.30 ,2014
+108,The Twilight Saga: Breaking Dawn Part 1,Lionsgate,$712.20 ,2011
+109,Dawn of the Planet of the Apes,Fox,$710.60 ,2014
+110,The Twilight Saga: New Moon,Lionsgate,$709.70 ,2009
+111,Transformers,Paramount,$709.70 ,2007
+112,The Amazing Spider-Man 2,Sony,$709.00 ,2014
+113,It,Warner Brothers,$700.40 ,2017
+114,The Wandering Earth,China Film Corporation,$699.80 ,2019
+115,The Twilight Saga: Eclipse,Lionsgate,$698.50 ,2010
+116,Mission: Impossible - Ghost Protocol,Paramount,$694.70 ,2011
+117,The Hunger Games,Lionsgate,$694.40 ,2012
+118,Mission: Impossible - Rogue Nation,Paramount,$682.70 ,2015
+119,Forrest Gump,Paramount,$677.90 ,1994
+120,Doctor Strange,Buena Vista,$677.70 ,2016
+121,Interstellar,Paramount,$677.50 ,2014
+122,The Sixth Sense,Buena Vista,$672.80 ,1999
+123,Man of Steel,Warner Brothers,$668.00 ,2013
+124,Kung Fu Panda 2,Dreamworks,$665.70 ,2011
+125,Ice Age: The Meltdown,Fox,$660.90 ,2006
+126,Justice League,Warner Brothers,$657.90 ,2017
+127,Big Hero 6,Buena Vista,$657.80 ,2014
+128,Pirates of the Caribbean: The Curse of the Black Pearl,Buena Vista,$654.30 ,2003
+129,Fantastic Beasts: The Crimes of Grindelwald,Warner Brothers,$653.80 ,2018
+130,The Hunger Games: Mockingjay - Part 2,Lionsgate,$653.40 ,2015
+131,Star Wars: Episode II - Attack of the Clones,Fox,$649.40 ,2002
+132,Thor: The Dark World,Buena Vista,$644.60 ,2013
+133,Moana,Buena Vista,$643.30 ,2016
+134,Sing,Universal,$634.20 ,2016
+135,The Incredibles,Buena Vista,$633.00 ,2004
+136,Kung Fu Panda,Dreamworks,$631.70 ,2008
+137,The Martian,Fox,$630.20 ,2015
+138,Fast Five,Universal,$626.10 ,2011
+139,Hancock,Sony,$624.40 ,2008
+140,MIB 3,Sony,$624.00 ,2012
+141,Iron Man 2,Paramount,$623.90 ,2010
+142,Ant-Man and the Wasp,Buena Vista,$622.70 ,2018
+143,How to Train Your Dragon 2,Fox,$621.50 ,2014
+144,Ratatouille,Buena Vista,$620.70 ,2007
+145,Logan,Fox,$619.00 ,2017
+146,The Lost World: Jurassic Park,Universal,$618.60 ,1997
+147,The Passion of the Christ,Newmarket,$611.90 ,2004
+148,Mamma Mia!,Universal,$609.90 ,2008
+149,Life of Pi,Fox,$609.00 ,2012
+150,Transformers: The Last Knight,Paramount,$605.40 ,2017
+151,Madagascar: Escape 2 Africa,Dreamworks,$603.90 ,2008
+152,Casino Royale,Sony,$599.00 ,2006
+153,Tangled,Buena Vista,$591.80 ,2010
+154,War of the Worlds,Paramount,$591.70 ,2005
+155,Men in Black,Sony,$589.40 ,1997
+156,The Croods,Fox,$587.20 ,2013
+157,The Hangover Part II,Warner Brothers,$586.80 ,2011
+158,Quantum of Solace,Sony,$586.10 ,2008
+159,I Am Legend,Warner Brothers,$585.30 ,2007
+160,Iron Man,Paramount,$585.20 ,2008
+161,Ready Player One,Warner Brothers,$582.90 ,2018
+162,Operation Red Sea,WGUSA,$579.20 ,2018
+163,"Monsters, Inc.",Buena Vista,$577.40 ,2001
+164,Night at the Museum,Fox,$574.50 ,2006
+165,Fifty Shades of Grey,Universal,$571.00 ,2015
+166,Kong: Skull Island,Warner Brothers,$566.70 ,2017
+167,The Smurfs,Sony,$563.70 ,2011
+168,Cars 2,Buena Vista,$562.10 ,2011
+169,Puss in Boots,Dreamworks,$555.00 ,2011
+170,The Mermaid (Mei ren yu),Sony,$553.80 ,2016
+171,Armageddon,Buena Vista,$553.70 ,1998
+172,King Kong,Universal,$550.50 ,2005
+173,Ted,Universal,$549.40 ,2012
+174,American Sniper,Warner Brothers,$547.40 ,2014
+175,Mission: Impossible II,Paramount,$546.40 ,2000
+176,Sherlock Holmes: A Game of Shadows,Warner Brothers,$545.40 ,2011
+177,The Day After Tomorrow,Fox,$544.30 ,2004
+178,Detective Chinatown 2,Warner Brothers,$544.10 ,2018
+179,X-Men: Apocalypse,Fox,$543.90 ,2016
+180,Cinderella,Buena Vista,$543.50 ,2015
+181,Despicable Me,Universal,$543.10 ,2010
+182,Brave,Buena Vista,$540.40 ,2012
+183,World War Z,Paramount,$540.00 ,2013
+184,The Empire Strikes Back,Fox,$538.40 ,1980
+185,WALL-E,Buena Vista,$533.30 ,2008
+186,The Revenant,Fox,$533.00 ,2015
+187,Madagascar,Dreamworks,$532.70 ,2005
+188,The Meg,Warner Brothers,$530.20 ,2018
+189,Ralph Breaks the Internet,Buena Vista,$529.30 ,2018
+190,Godzilla,Warner Brothers,$529.10 ,2014
+191,Hotel Transylvania 3: Summer Vacation,Sony,$528.60 ,2018
+192,The Boss Baby,Fox,$528.00 ,2017
+193,The Simpsons Movie,Fox,$527.10 ,2007
+194,Dunkirk,Warner Brothers,$526.90 ,2017
+195,Sherlock Holmes,Warner Brothers,$524.00 ,2009
+196,Kung Fu Panda 3,Fox,$521.20 ,2016
+197,Terminator 2: Judgment Day,TriStar,$520.90 ,1991
+198,Toy Story 4,Buena Vista,$519.80 ,2019
+199,How to Train Your Dragon: The Hidden World,Universal,$519.80 ,2019
+200,Ant-Man,Buena Vista,$519.30 ,2015
+201,Meet the Fockers,Universal,$516.60 ,2004
+202,Dr. Seuss' The Grinch,Universal,$511.60 ,2018
+203,Ghost,Paramount,$505.70 ,1990
+204,Aladdin,Buena Vista,$504.10 ,1992
+205,Rio 2,Fox,$500.10 ,2014
+206,Troy,Warner Brothers,$497.40 ,2004
+207,Toy Story 2,Buena Vista,$497.40 ,1999
+208,How to Train Your Dragon,Dreamworks,$494.90 ,2010
+209,Twister,Warner Brothers,$494.50 ,1996
+210,Teenage Mutant Ninja Turtles,Paramount,$493.30 ,2014
+211,Oz The Great and Powerful,Buena Vista,$493.30 ,2013
+212,Clash of the Titans,Warner Brothers,$493.20 ,2010
+213,War for the Planet of the Apes,Fox,$490.70 ,2017
+214,Angels & Demons,Sony,$485.90 ,2009
+215,Rio,Fox,$484.60 ,2011
+216,Bruce Almighty,Universal,$484.60 ,2003
+217,Shrek,Dreamworks,$484.40 ,2001
+218,Saving Private Ryan,Dreamworks,$482.30 ,1998
+219,Rise of the Planet of the Apes,Fox,$481.80 ,2011
+220,Mr. & Mrs. Smith,Fox,$478.20 ,2005
+221,Home Alone,Fox,$476.70 ,1990
+222,Return of the Jedi,Fox,$475.10 ,1983
+223,Charlie and the Chocolate Factory,Warner Brothers,$475.00 ,2005
+224,Hotel Transylvania 2,Sony,$474.80 ,2015
+225,Indiana Jones and the Last Crusade,Paramount,$474.20 ,1989
+226,San Andreas,Warner Brothers,$474.00 ,2015
+227,Wreck-It Ralph,Buena Vista,$471.20 ,2012
+228,Jaws,Universal,$470.70 ,1975
+229,The LEGO Movie,Warner Brothers,$469.20 ,2014
+230,Bumblebee,Paramount,$468.00 ,2018
+231,The Hangover,Warner Brothers,$467.50 ,2009
+232,Star Trek Into Darkness,Paramount,$467.40 ,2013
+233,The Matrix,Warner Brothers,$463.50 ,1999
+234,Pretty Woman,Buena Vista,$463.40 ,1990
+235,Lucy,Universal,$463.40 ,2014
+236,Cars,Buena Vista,$462.20 ,2006
+237,Gladiator,Dreamworks,$460.60 ,2000
+238,X-Men: The Last Stand,Fox,$459.40 ,2006
+239,Mission: Impossible,Paramount,$457.70 ,1996
+240,National Treasure: Book of Secrets,Buena Vista,$457.40 ,2007
+241,The Last Samurai,Warner Brothers,$456.80 ,2003
+242,300,Warner Brothers,$456.10 ,2007
+243,Ocean's Eleven,Warner Brothers,$450.70 ,2001
+244,Thor,Paramount,$449.30 ,2011
+245,Pearl Harbor,Buena Vista,$449.20 ,2001
+246,Tarzan,Buena Vista,$448.20 ,1999
+247,La La Land,Lionsgate,$446.10 ,2016
+248,Alvin and the Chipmunks: The Squeakquel,Fox,$443.10 ,2009
+249,The Bourne Ultimatum,Universal,$442.80 ,2007
+250,Men in Black II,Sony,$441.80 ,2002
+251,Les Miserables,Universal,$441.80 ,2012
+252,The Exorcist,Warner Brothers,$441.30 ,1973
+253,Mrs. Doubtfire,Fox,$441.30 ,1993
+254,Terminator: Genisys,Paramount,$440.60 ,2015
+255,The Greatest Showman,Fox,$435.00 ,2017
+256,A Star is Born,Warner Brothers,$434.90 ,2018
+257,Warcraft,Universal,$433.70 ,2016
+258,Terminator 3: Rise of the Machines,Warner Brothers,$433.40 ,2003
+259,The Mummy Returns,Universal,$433.00 ,2001
+260,Die Another Day,MGM,$432.00 ,2002
+261,Cast Away,Fox,$429.60 ,2000
+262,Rampage,Warner Brothers,$428.00 ,2018
+263,Pokemon Detective Pikachu,Warner Brothers,$427.50 ,2019
+264,The Matrix Revolutions,Warner Brothers,$427.30 ,2003
+265,The Intouchables,Weinstein,$426.60 ,2012
+266,Django Unchained,Weinstein,$425.40 ,2012
+267,Beauty and the Beast,Buena Vista,$425.00 ,1991
+268,Dances with Wolves,Orion,$424.20 ,1990
+269,The Chronicles of Narnia: Prince Caspian,Buena Vista,$419.70 ,2008
+270,The Mummy,Universal,$415.90 ,1999
+271,The Chronicles of Narnia: The Voyage of the Dawn Treader,Fox,$415.70 ,2010
+272,Jason Bourne,Universal,$415.50 ,2016
+273,Sex and the City,Warner Brothers,$415.30 ,2008
+274,The Wolverine,Fox,$414.80 ,2013
+275,Kingsman: The Secret Service,Fox,$414.40 ,2015
+276,The King's Speech,Weinstein,$414.20 ,2010
+277,Night at the Museum: Battle of the Smithsonian,Fox,$413.10 ,2009
+278,Batman,Warner Brothers,$411.50 ,1989
+279,The Bodyguard,Warner Brothers,$411.00 ,1992
+280,Pacific Rim,Warner Brothers,$411.00 ,2013
+281,Kingsman: The Golden Circle,Fox,$410.90 ,2017
+282,The Mummy,Universal,$409.20 ,2017
+283,Ice Age: Collision Course,Fox,$408.60 ,2016
+284,Signs,Buena Vista,$408.20 ,2002
+285,X2: X-Men United,Fox,$407.70 ,2003
+286,Alita: Battle Angel,Fox,$404.90 ,2019
+287,Prometheus,Fox,$403.40 ,2012
+288,Gone with the Wind,MGM,$402.40 ,1939
+289,The Mummy: Tomb of the Dragon Emperor,Universal,$401.10 ,2008
+290,Tron Legacy,Buena Vista,$400.10 ,2010
+291,Mission: Impossible III,Paramount,$397.90 ,2006
+292,Snow White and the Huntsman,Universal,$396.60 ,2012
+293,Grease,Paramount,$396.20 ,1978
+294,Mamma Mia! Here We Go Again,Universal,$395.00 ,2018
+295,Twilight,Lionsgate,$393.60 ,2008
+296,Solo: A Star Wars Story,Buena Vista,$392.90 ,2018
+297,The Wolf of Wall Street,Paramount,$392.00 ,2013
+298,Superman Returns,Warner Brothers,$391.10 ,2006
+299,Robin Hood: Prince of Thieves,Warner Brothers,$390.50 ,1991
+300,Raiders of the Lost Ark,Paramount,$389.90 ,1981
+301,Independence Day: Resurgence,Fox,$389.70 ,2016
+302,Home,Fox,$386.00 ,2015
+303,Star Trek,Paramount,$385.70 ,2009
+304,Monster Hunt,FR,$385.30 ,2016
+305,Happy Feet,Warner Brothers,$384.30 ,2006
+306,Cars 3,Buena Vista,$383.90 ,2017
+307,Live Free or Die Hard,Fox,$383.50 ,2007
+308,Ice Age,Fox,$383.30 ,2002
+309,Fifty Shades Darker,Universal,$381.50 ,2017
+310,Monsters Vs. Aliens,Dreamworks,$381.50 ,2009
+311,Back to the Future,Universal,$381.10 ,1985
+312,Godzilla,Sony,$379.00 ,1998
+313,True Lies,Fox,$378.90 ,1994
+314,Mad Max: Fury Road,Warner Brothers,$378.90 ,2015
+315,Godzilla: King of the Monsters,Warner Brothers,$378.10 ,2019
+316,Slumdog Millionaire,Fox,$377.90 ,2008
+317,Taken 2,Fox,$376.10 ,2012
+318,G.I. Joe: Retaliation,Paramount,$375.70 ,2013
+319,Spider-Man: Into The Spider-Verse,Sony,$375.50 ,2018
+320,Batman Begins,Warner Brothers,$374.20 ,2005
+321,What Women Want,Paramount,$374.10 ,2000
+322,The Adventures of Tintin,Paramount,$374.00 ,2011
+323,Toy Story,Buena Vista,$373.60 ,1995
+324,X-Men Origins: Wolverine,Fox,$373.10 ,2009
+325,Penguins of Madagascar,Fox,$373.00 ,2014
+326,The Golden Compass,New Line,$372.20 ,2007
+327,Fifty Shades Freed,Universal,$371.90 ,2018
+328,Terminator Salvation,Warner Brothers,$371.40 ,2009
+329,Captain America: The First Avenger,Paramount,$370.60 ,2011
+330,Edge of Tomorrow,Warner Brothers,$370.50 ,2014
+331,There's Something About Mary,Fox,$369.90 ,1998
+332,Gone Girl,Fox,$369.30 ,2014
+333,The Fugitive,Warner Brothers,$368.90 ,1993
+334,Jurassic Park III,Universal,$368.80 ,2001
+335,My Big Fat Greek Wedding,IFC,$368.70 ,2002
+336,Hitch,Sony,$368.10 ,2005
+337,Shark Tale,Dreamworks,$367.30 ,2004
+338,Die Hard: With A Vengeance,Fox,$366.10 ,1995
+339,The Nun,Warner Brothers,$365.60 ,2018
+340,Shazam!,Warner Brothers,$364.10 ,2019
+341,Notting Hill,Universal,$363.90 ,1999
+342,A Bug's Life,Buena Vista,$363.30 ,1998
+343,Night at the Museum: Secret of the Tomb,Fox,$363.20 ,2014
+344,Fast and Furious,Universal,$363.20 ,2009
+345,Ocean's Twelve,Warner Brothers,$362.70 ,2004
+346,Noah,Paramount,$362.60 ,2014
+347,Planet of the Apes,Fox,$362.20 ,2001
+348,The Hangover Part III,Warner Brothers,$362.00 ,2013
+349,The World Is Not Enough,MGM,$361.80 ,1999
+350,Monster Hunt 2,Lionsgate,$361.70 ,2018
+351,Alvin and the Chipmunks,Fox,$361.30 ,2007
+352,The Karate Kid,Sony,$359.10 ,2010
+353,Home Alone 2: Lost in New York,Fox,$359.00 ,1992
+354,Hotel Transylvania,Sony,$358.40 ,2012
+355,Minority Report,Fox,$358.40 ,2002
+356,Your Name.,FUN,$358.00 ,2017
+357,Top Gun,Paramount,$356.80 ,1986
+358,The Legend of Tarzan,Warner Brothers,$356.70 ,2016
+359,American Beauty,Dreamworks,$356.30 ,1999
+360,Apollo 13,Universal,$355.20 ,1995
+361,Rain Man,MGM,$354.80 ,1988
+362,The Great Gatsby,Warner Brothers,$353.60 ,2013
+363,X-Men: First Class,Fox,$353.60 ,2011
+364,Basic Instinct,TriStar,$352.90 ,1992
+365,Murder on the Orient Express,Fox,$352.80 ,2017
+366,The Angry Birds Movie,Sony,$352.30 ,2016
+367,GoldenEye,MGM,$352.20 ,1995
+368,Catch Me If You Can,Dreamworks,$352.10 ,2002
+369,Dumbo,Buena Vista,$351.80 ,2019
+370,Now You See Me,Lionsgate,$351.70 ,2013
+371,Hannibal,MGM,$351.70 ,2001
+372,The Mask,New Line,$351.60 ,1994
+373,Peter Rabbit,Sony,$351.30 ,2018
+374,Speed,Fox,$350.40 ,1994
+375,Dinosaur,Buena Vista,$349.80 ,2000
+376,Mary Poppins Returns,Buena Vista,$349.50 ,2018
+377,Deep Impact,Paramount,$349.50 ,1998
+378,Dr. Seuss' The Lorax,Universal,$348.80 ,2012
+379,The Maze Runner,Fox,$348.30 ,2014
+380,The Smurfs 2,Sony,$347.50 ,2013
+381,National Treasure,Buena Vista,$347.50 ,2004
+382,Rush Hour 2,New Line,$347.30 ,2001
+383,"I, Robot",Fox,$347.20 ,2004
+384,Trolls,Fox,$346.90 ,2016
+385,xXx: The Return of Xander Cage,Paramount,$346.10 ,2017
+386,Pocahontas,Buena Vista,$346.10 ,1995
+387,How the Grinch Stole Christmas,Universal,$345.10 ,2000
+388,Star Trek Beyond,Paramount,$343.50 ,2016
+389,Alvin and the Chipmunks: Chipwrecked,Fox,$342.70 ,2011
+390,The Flintstones,Universal,$341.60 ,1994
+391,Wanted,Universal,$341.40 ,2008
+392,A Quiet Place,Paramount,$340.90 ,2018
+393,Enchanted,Buena Vista,$340.50 ,2007
+394,300: Rise of An Empire,Warner Brothers,$337.60 ,2014
+395,Batman Forever,Warner Brothers,$336.60 ,1995
+396,Prince of Persia: The Sands of Time,Buena Vista,$336.40 ,2010
+397,Over the Hedge,Dreamworks,$336.00 ,2006
+398,Journey 2: The Mysterious Island,Warner Brothers,$335.30 ,2012
+399,The Rock,Buena Vista,$335.10 ,1996
+400,The Great Wall,Universal,$334.90 ,2017
+401,Now You See Me 2,Lionsgate,$334.90 ,2016
+402,The Curious Case of Benjamin Button,Paramount,$333.90 ,2008
+403,Indiana Jones and the Temple of Doom,Paramount,$333.10 ,1984
+404,Tomorrow Never Dies,MGM,$333.00 ,1997
+405,The Good Dinosaur,Buena Vista,$332.20 ,2015
+406,Back to the Future Part II,Universal,$332.00 ,1989
+407,22 Jump Street,Sony,$331.30 ,2014
+408,Fantastic Four,Fox,$330.60 ,2005
+409,Meet the Parents,Universal,$330.40 ,2000
+410,Who Framed Roger Rabbit,Buena Vista,$329.80 ,1988
+411,Black Swan,Fox,$329.40 ,2010
+412,The Perfect Storm,Warner Brothers,$328.70 ,2000
+413,Crocodile Dundee,Paramount,$328.20 ,1986
+414,Seven,New Line,$327.30 ,1995
+415,The Devil Wears Prada,Fox,$326.60 ,2006
+416,Taken 3,Fox,$326.50 ,2015
+417,The Hunchback of Notre Dame,Buena Vista,$325.30 ,1996
+418,A Christmas Carol,Buena Vista,$325.30 ,2009
+419,The SpongeBob Movie: Sponge Out of Water,Paramount,$325.20 ,2015
+420,Schindler's List,Universal,$322.10 ,1993
+421,Megamind,Dreamworks,$321.90 ,2010
+422,Lethal Weapon 3,Warner Brothers,$321.70 ,1992
+423,Robin Hood,Universal,$321.70 ,2010
+424,Inglourious Basterds,Weinstein,$321.50 ,2009
+425,101 Dalmatians,Buena Vista,$320.70 ,1996
+426,The Conjuring 2,Warner Brothers,$320.40 ,2016
+427,Green Book,Universal,$320.30 ,2018
+428,Fatal Attraction,Paramount,$320.10 ,1987
+429,The Last Airbender,Paramount,$319.70 ,2010
+430,The Conjuring,Warner Brothers,$319.50 ,2013
+431,The Proposal,Buena Vista,$317.40 ,2009
+432,Beverly Hills Cop,Paramount,$316.40 ,1984
+433,Air Force One,Sony,$315.20 ,1997
+434,The Expendables 2,Lionsgate,$315.00 ,2012
+435,Chicken Little,Buena Vista,$314.40 ,2005
+436,As Good as It Gets,Sony,$314.20 ,1997
+437,A Beautiful Mind,Universal,$313.50 ,2001
+438,Maze Runner: The Scorch Trials,Fox,$312.30 ,2015
+439,Resident Evil: The Final Chapter,Sony,$312.20 ,2017
+440,Austin Powers: The Spy Who Shagged Me,New Line,$312.00 ,1999
+441,The LEGO Batman Movie,Warner Brothers,$312.00 ,2017
+442,The Polar Express,Warner Brothers,$311.40 ,2004
+443,Ocean's Thirteen,Warner Brothers,$311.30 ,2007
+444,Little Fockers,Universal,$310.70 ,2010
+445,Bolt,Buena Vista,$310.00 ,2008
+446,Ransom,Buena Vista,$309.50 ,1996
+447,Runaway Bride,Paramount,$309.50 ,1999
+448,The Blind Side,Warner Brothers,$309.20 ,2009
+449,The Fault in our Stars,Fox,$307.20 ,2014
+450,The Pursuit of Happyness,Sony,$307.10 ,2006
+451,Rise of the Guardians,Dreamworks,$306.90 ,2012
+452,Close Encounters of the Third Kind,Columbia,$306.90 ,1977
+453,Chicago,Miramax,$306.80 ,2002
+454,Annabelle: Creation,Warner Brothers,$306.50 ,2017
+455,Wonder,Lionsgate,$305.90 ,2017
+456,Wrath of the Titans,Warner Brothers,$305.30 ,2012
+457,Skyscraper,Universal,$304.90 ,2018
+458,John Wick: Chapter 3 - Parabellum,Lionsgate,$304.70 ,2019
+459,A Good Day to Die Hard,Fox,$304.70 ,2013
+460,Mulan,Buena Vista,$304.30 ,1998
+461,Passengers,Sony,$303.10 ,2016
+462,Battleship,Universal,$303.00 ,2012
+463,Dangal,UTV,$302.90 ,2016
+464,Liar Liar,Universal,$302.70 ,1997
+465,G.I. Joe: The Rise of Cobra,Paramount,$302.50 ,2009
+466,Hook,TriStar,$300.90 ,1991
+467,Rocky IV,MGM,$300.50 ,1985
+468,Superman,Warner Brothers,$300.50 ,1978
+469,Rambo: First Blood Part II,TriStar,$300.40 ,1985
+470,Van Helsing,Universal,$300.30 ,2004
+471,Resident Evil: Afterlife,Sony,$300.20 ,2010
+472,Stuart Little,Sony,$300.10 ,1999
+473,Beverly Hills Cop II,Paramount,$300.00 ,1987
+474,Alice Through the Looking Glass,Buena Vista,$299.50 ,2016
+475,My Best Friend's Wedding,Sony,$299.30 ,1997
+476,Real Steel,Buena Vista,$299.30 ,2011
+477,Ocean's 8,Warner Brothers,$297.70 ,2018
+478,The Divergent Series: Insurgent,Lionsgate,$297.30 ,2015
+479,Dr. Seuss' Horton Hears a Who!,Fox,$297.10 ,2008
+480,Look Who's Talking,TriStar,$297.00 ,1989
+481,Austin Powers in Goldmember,New Line,$296.70 ,2002
+482,Miss Peregrine's Home for Peculiar Children,Fox,$296.50 ,2016
+483,X-Men,Fox,$296.30 ,2000
+484,Ferdinand,Fox,$296.10 ,2017
+485,Ghostbusters,Columbia,$295.20 ,1984
+486,Shutter Island,Paramount,$294.80 ,2010
+487,Doctor Dolittle,Fox,$294.50 ,1998
+488,Salt,Sony,$293.50 ,2010
+489,G-Force,Buena Vista,$292.80 ,2009
+490,The Departed,Warner Brothers,$291.50 ,2006
+491,What Lies Beneath,Dreamworks,$291.40 ,2000
+492,Pacific Rim Uprising,Universal,$290.90 ,2018
+493,Shakespeare in Love,Miramax,$289.30 ,1998
+494,Fantastic Four: Rise of the Silver Surfer,Fox,$289.00 ,2007
+495,Divergent,Lionsgate,$288.90 ,2014
+496,Coming to America,Paramount,$288.80 ,1988
+497,The Bourne Supremacy,Universal,$288.50 ,2004
+498,Bridesmaids,Universal,$288.40 ,2011
+499,Sex and the City 2,Warner Brothers,$288.30 ,2010
+500,Maze Runner: The Death Cure,Fox,$288.30 ,2018
+501,Casper,Universal,$287.90 ,1995
+502,Bee Movie,Dreamworks,$287.60 ,2007
+503,American Pie 2,Universal,$287.60 ,2001
+504,Pitch Perfect 2,Universal,$287.50 ,2015
+505,The Green Mile,Warner Brothers,$286.80 ,1999
+506,Oblivion,Universal,$286.20 ,2013
+507,Elysium,TriStar,$286.10 ,2013
+508,Lethal Weapon 4,Warner Brothers,$285.40 ,1998
+509,Wedding Crashers,New Line,$285.20 ,2005
+510,John Carter,Buena Vista,$284.10 ,2012
+511,Turbo,Fox,$282.60 ,2013
+512,Bridget Jones's Diary,Miramax,$281.90 ,2001
+513,Split,Universal,$278.50 ,2017
+514,The Tourist,Sony,$278.30 ,2010
+515,Scary Movie,Miramax,$278.00 ,2000
+516,XXX,SonR,$277.40 ,2002
+517,Spirited Away,Buena Vista,$277.30 ,2002
+518,The Bourne Legacy,Universal,$276.10 ,2012
+519,Mr. Peabody & Sherman,Fox,$275.70 ,2014
+520,Scooby-Doo,Warner Brothers,$275.70 ,2002
+521,Lincoln,Buena Vista,$275.30 ,2012
+522,Lara Croft: Tomb Raider,Paramount,$274.70 ,2001
+523,Tomb Raider,Warner Brothers,$274.70 ,2018
+524,The Expendables,Lionsgate,$274.50 ,2010
+525,Cloudy with a Chance of Meatballs 2,Sony,$274.30 ,2013
+526,The Nutty Professor,Universal,$274.00 ,1996
+527,Jerry Maguire,Sony,$273.60 ,1996
+528,Bad Boys II,Sony,$273.30 ,2003
+529,Lilo & Stitch,Buena Vista,$273.10 ,2002
+530,The Silence of the Lambs,Orion,$272.70 ,1991
+531,Grown Ups,Sony,$271.40 ,2010
+532,Neighbors,Universal,$270.70 ,2014
+533,The Firm,Paramount,$270.20 ,1993
+534,We're the Millers,Warner Brothers,$270.00 ,2013
+535,Gran Torino,Warner Brothers,$270.00 ,2008
+536,"10,000 B.C.",Warner Brothers,$269.80 ,2008
+537,Epic,Fox,$268.40 ,2013
+538,Exodus: Gods and Kings,Fox,$268.20 ,2014
+539,Paddington,Dimension,$268.00 ,2015
+540,Bambi,RKO,$267.40 ,1942
+541,The Princess and the Frog,Buena Vista,$267.00 ,2009
+542,Batman Returns,Warner Brothers,$266.90 ,1992
+543,Something's Gotta Give,Sony,$266.70 ,2003
+544,Indecent Proposal,Paramount,$266.60 ,1993
+545,American Gangster,Universal,$266.50 ,2007
+546,Waterworld,Universal,$264.20 ,1995
+547,The Truman Show,Paramount,$264.10 ,1998
+548,Charlie's Angels,Sony,$264.10 ,2000
+549,The Fifth Element,Sony,$263.90 ,1997
+550,The Incredible Hulk,Universal,$263.40 ,2008
+551,Jumanji,Sony,$262.80 ,1995
+552,Bridget Jones: The Edge of Reason,Universal,$262.50 ,2004
+553,Knight & Day,Fox,$261.90 ,2010
+554,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,Fox,$261.60 ,2006
+555,Total Recall,Sony,$261.30 ,1990
+556,Michael Jackson's This Is It,Sony,$261.20 ,2009
+557,Robots,Fox,$260.70 ,2005
+558,The Lone Ranger,Buena Vista,$260.50 ,2013
+559,Super 8,Paramount,$260.10 ,2011
+560,Mojin: The Lost Legend,WGUSA,$259.40 ,2015
+561,Blade Runner 2049,Warner Brothers,$259.20 ,2017
+562,Charlie's Angels: Full Throttle,Sony,$259.20 ,2003
+563,Rush Hour 3,New Line,$258.00 ,2007
+564,The Full Monty,Fox,$257.90 ,1997
+565,Annabelle,Warner Brothers,$257.00 ,2014
+566,The Village,Buena Vista,$256.70 ,2004
+567,Lost in Hong Kong,WGUSA,$256.30 ,2015
+568,Erin Brockovich,Universal,$256.30 ,2000
+569,Halloween,Universal,$255.50 ,2018
+570,Get Out,Universal,$255.40 ,2017
+571,Cliffhanger,TriStar,$255.00 ,1993
+572,Us,Universal,$254.70 ,2019
+573,Kung Fu Yoga,WGUSA,$254.20 ,2017
+574,Baahubali 2: The Conclusion,GrtIndia,$254.20 ,2017
+575,Babe,Universal,$254.10 ,1995
+576,Wild Hogs,Buena Vista,$253.60 ,2007
+577,High School Musical 3: Senior Year,Buena Vista,$252.90 ,2008
+578,Hercules,Buena Vista,$252.70 ,1997
+579,True Grit,Paramount,$252.30 ,2010
+580,Bean,Polygram,$251.20 ,1997
+581,American Hustle,Sony,$251.20 ,2013
+582,You've Got Mail,Warner Brothers,$250.80 ,1998
+583,Enemy of the State,Buena Vista,$250.60 ,1998
+584,Brother Bear,Buena Vista,$250.40 ,2003
+585,The Mask of Zorro,Sony,$250.30 ,1998
+586,Eragon,Fox,$249.50 ,2006
+587,The Ring,Dreamworks,$249.30 ,2002
+588,The Blair Witch Project,Artisan,$248.60 ,1999
+589,Unbreakable,Buena Vista,$248.10 ,2000
+590,Dumb and Dumber,New Line,$247.30 ,1994
+591,Glass,Universal,$247.00 ,2019
+592,Grown Ups 2,Sony,$247.00 ,2013
+593,Love Actually,Universal,$246.90 ,2003
+594,Journey to the West: The Demons Strike Back,Sony,$246.60 ,2017
+595,The Peanuts Movie,Fox,$246.20 ,2015
+596,Rango,Paramount,$245.70 ,2011
+597,Four Weddings and a Funeral,Polygram,$245.70 ,1994
+598,Face/Off,Paramount,$245.70 ,1997
+599,Teenage Mutant Ninja Turtles: Out of the Shadows,Paramount,$245.60 ,2016
+600,Dark Shadows,Warner Brothers,$245.50 ,2012
+601,Hulk,Universal,$245.40 ,2003
+602,Bienvenue chez les Ch'tis,Pathe,$245.10 ,2008
+603,Dark Phoenix,Fox,$245.10 ,2019
+604,The Godfather,Paramount,$245.10 ,1972
+605,Pixels,Sony,$244.90 ,2015
+606,Hercules,Paramount,$244.80 ,2014
+607,Back to the Future Part III,Universal,$244.50 ,1990
+608,Rush Hour,New Line,$244.40 ,1998
+609,After Earth,Sony,$243.80 ,2013
+610,A Few Good Men,Columbia,$243.20 ,1992
+611,Cloudy with a Chance of Meatballs,Sony,$243.00 ,2009
+612,8 Mile,Universal,$242.90 ,2002
+613,Daddy's Home,Paramount,$242.80 ,2015
+614,Marley and Me,Fox,$242.70 ,2008
+615,RoboCop,Sony,$242.70 ,2014
+616,Eraser,Warner Brothers,$242.30 ,1996
+617,Journey to the Center of the Earth,Warner Brothers,$242.00 ,2008
+618,Assassin's Creed,Fox,$240.90 ,2016
+619,Alien: Covenant,Fox,$240.90 ,2017
+620,Sully,Warner Brothers,$240.80 ,2016
+621,Die Hard 2: Die Harder,Fox,$240.00 ,1990
+622,Resident Evil: Retribution,Sony,$240.00 ,2012
+623,Crocodile Dundee II,Paramount,$239.60 ,1988
+624,Planes,Buena Vista,$239.30 ,2013
+625,Crazy Rich Asians,Warner Brothers,$238.50 ,2018
+626,Batman and Robin,Warner Brothers,$238.20 ,1997
+627,Click,SonR,$237.70 ,2006
+628,Gulliver's Travels,Fox,$237.40 ,2010
+629,Gone in 60 Seconds,Buena Vista,$237.20 ,2000
+630,Saturday Night Fever,Paramount,$237.10 ,1977
+631,Silver Linings Playbook,Weinstein,$236.40 ,2012
+632,2 Fast 2 Furious,Universal,$236.40 ,2003
+633,Howl's Moving Castle,Buena Vista,$236.00 ,2005
+634,Hidden Figures,Fox,$236.00 ,2016
+635,A.I. Artificial Intelligence,Warner Brothers,$235.90 ,2001
+636,Dead Poets Society,Buena Vista,$235.90 ,1989
+637,Spy,Fox,$235.70 ,2015
+638,American Pie,Universal,$235.50 ,1999
+639,American Reunion,Universal,$235.00 ,2012
+640,Big Daddy,Sony,$234.80 ,1999
+641,Alvin and the Chipmunks: The Road Chip,Fox,$234.80 ,2015
+642,The Imitation Game,Weinstein,$233.60 ,2014
+643,The Day the Earth Stood Still,Fox,$233.10 ,2008
+644,The Girl with the Dragon Tattoo,Sony,$232.60 ,2011
+645,Argo,Warner Brothers,$232.30 ,2012
+646,The English Patient,Miramax,$232.00 ,1996
+647,Sister Act,Buena Vista,$231.60 ,1992
+648,American Wedding,Universal,$231.40 ,2003
+649,Juno,Fox,$231.40 ,2007
+650,Constantine,Warner Brothers,$230.90 ,2005
+651,Get Smart,Warner Brothers,$230.70 ,2008
+652,Space Jam,Warner Brothers,$230.40 ,1996
+653,The Heat,Fox,$229.90 ,2013
+654,Mr. Bean's Holiday,Universal,$229.70 ,2007
+655,Life Is Beautiful,Miramax,$229.20 ,1998
+656,Ghostbusters,Sony,$229.10 ,2016
+657,Ghost Rider,Sony,$228.70 ,2007
+658,Goodbye Mr. Loser,CL,$228.10 ,2015
+659,Sleepless in Seattle,TriStar,$227.90 ,1993
+660,Lethal Weapon 2,Warner Brothers,$227.90 ,1989
+661,The Green Hornet,Sony,$227.80 ,2011
+662,Out of Africa,Universal,$227.50 ,1985
+663,Paddington 2,Warner Brothers,$227.30 ,2018
+664,Baby Driver,TriStar,$226.90 ,2017
+665,Immortals,Rela.,$226.90 ,2011
+666,Taken,Fox,$226.80 ,2009
+667,Percy Jackson & The Olympians: The Lightning Thief,Fox,$226.50 ,2010
+668,Hansel and Gretel: Witch Hunters,Paramount,$226.30 ,2013
+669,Good Will Hunting,Miramax,$225.90 ,1997
+670,The Secret Life of Pets 2,Universal,$225.90 ,2019
+671,Valerian and the City of a Thousand Planets,Lionsgate,$225.90 ,2017
+672,The Social Network,Sony,$224.90 ,2010
+673,Chicken Run,Dreamworks,$224.80 ,2000
+674,Con Air,Buena Vista,$224.00 ,1997
+675,Interview with the Vampire,Warner Brothers,$223.70 ,1994
+676,Flightplan,Buena Vista,$223.40 ,2005
+677,Yes Man,Warner Brothers,$223.20 ,2008
+678,Non-Stop,Universal,$222.80 ,2014
+679,"Honey, I Shrunk the Kids",Buena Vista,$222.70 ,1989
+680,Fahrenheit 9/11,Lions,$222.40 ,2004
+681,Jumper,Fox,$222.20 ,2008
+682,Wild Wild West,Warner Brothers,$222.10 ,1999
+683,Geostorm,Warner Brothers,$221.60 ,2017
+684,Presumed Innocent,Warner Brothers,$221.30 ,1990
+685,Elf,New Line,$220.90 ,2003
+686,Men in Black International,Sony,$220.80 ,2019
+687,Scary Movie 3,Dimension,$220.70 ,2003
+688,Inferno,Sony,$220.00 ,2016
+689,Green Lantern,Warner Brothers,$219.90 ,2011
+690,The Terminal,Dreamworks,$219.40 ,2004
+691,What Happens in Vegas,Fox,$219.40 ,2008
+692,It's Complicated,Universal,$219.10 ,2009
+693,Knocked Up,Universal,$219.10 ,2007
+694,Captain Phillips,Sony,$218.80 ,2013
+695,The Prince of Egypt,Dreamworks,$218.60 ,1998
+696,Jack Reacher,Paramount,$218.30 ,2012
+697,The Emoji Movie,Sony,$217.80 ,2017
+698,Collateral,Dreamworks,$217.80 ,2004
+699,Dracula Untold,Universal,$217.10 ,2014
+700,Central Intelligence,Warner Brothers,$217.00 ,2016
+701,Million Dollar Baby,Warner Brothers,$216.80 ,2004
+702,Ted 2,Universal,$216.70 ,2015
+703,The Help,Buena Vista,$216.60 ,2011
+704,Twins,Universal,$216.60 ,1988
+705,Valentine's Day,Warner Brothers,$216.50 ,2010
+706,Bad Teacher,Sony,$216.20 ,2011
+707,Clear and Present Danger,Paramount,$215.90 ,1994
+708,101 Dalmatians,Buena Vista,$215.90 ,1961
+709,Bram Stoker's Dracula,Columbia,$215.90 ,1992
+710,Vertical Limit,Sony,$215.70 ,2000
+711,Ghostbusters II,Columbia,$215.40 ,1989
+712,The Patriot,Sony,$215.30 ,2000
+713,The Sorcerer's Apprentice,Buena Vista,$215.30 ,2010
+714,Just Go With It,Sony,$214.90 ,2011
+715,The Expendables 3,Lionsgate,$214.70 ,2014
+716,Dirty Dancing,Vestron,$214.60 ,1987
+717,Smallfoot,Warner Brothers,$214.10 ,2018
+718,Creed II,MGM,$214.10 ,2018
+719,Public Enemies,Universal,$214.10 ,2009
+720,The Bourne Identity,Universal,$214.00 ,2002
+721,Disclosure,Warner Brothers,$214.00 ,1994
+722,Pulp Fiction,Miramax,$213.90 ,1994
+723,The Aviator,Miramax,$213.70 ,2004
+724,"Crouching Tiger, Hidden Dragon",Sony,$213.50 ,2000
+725,Braveheart,Paramount,$213.20 ,1995
+726,Into the Woods,Buena Vista,$213.10 ,2014
+727,Bedtime Stories,Buena Vista,$212.90 ,2008
+728,Miss Congeniality,Warner Brothers,$212.70 ,2000
+729,Entrapment,Fox,$212.40 ,1999
+730,Ace Ventura: When Nature Calls,Warner Brothers,$212.40 ,1995
+731,Master and Commander: The Far Side of the World,Fox,$212.00 ,2003
+732,End of Days,Universal,$212.00 ,1999
+733,Bridget Jones's Baby,Universal,$212.00 ,2016
+734,Battle: Los Angeles,Sony,$211.80 ,2011
+735,Fury,Sony,$211.80 ,2014
+736,Due Date,Warner Brothers,$211.80 ,2010
+737,Kingdom of Heaven,Fox,$211.70 ,2005
+738,The Little Mermaid,Buena Vista,$211.30 ,1989
+739,Australia,Fox,$211.30 ,2008
+740,District 9,TriStar,$210.80 ,2009
+741,Moonraker,MGM,$210.30 ,1979
+742,The Others,Miramax,$209.90 ,2001
+743,Horrible Bosses,Warner Brothers,$209.60 ,2011
+744,Red Dragon,Universal,$209.20 ,2002
+745,Tomorrowland,Buena Vista,$209.20 ,2015
+746,Lemony Snicket's A Series of Unfortunate Events,Paramount,$209.10 ,2004
+747,Me Before You,Warner Brothers,$208.30 ,2016
+748,Safe House,Universal,$208.10 ,2012
+749,S.W.A.T.,Sony,$207.70 ,2003
+750,Traffic,USA,$207.50 ,2000
+751,The Fast and the Furious,Universal,$207.30 ,2001
+752,Paranormal Activity 3,Paramount,$207.00 ,2011
+753,Philadelphia,TriStar,$206.70 ,1993
+754,Sleepy Hollow,Paramount,$206.10 ,1999
+755,The Jungle Book,Buena Vista,$205.80 ,1967
+756,London Has Fallen,Focus,$205.80 ,2016
+757,Journey to the West,Magn.,$205.60 ,2014
+758,JFK,Warner Brothers,$205.40 ,1991
+759,White House Down,Sony,$205.40 ,2013
+760,The Ugly Truth,Sony,$205.30 ,2009
+761,The Holiday,Sony,$205.10 ,2006
+762,A Dog's Purpose,Universal,$205.00 ,2017
+763,The Break-Up,Universal,$205.00 ,2006
+764,Eat Pray Love,Sony,$204.60 ,2010
+765,King Arthur,Buena Vista,$203.60 ,2004
+766,Everest,Universal,$203.40 ,2015
+767,Vanilla Sky,Paramount,$203.40 ,2001
+768,Arrival,Paramount,$203.40 ,2016
+769,Need for Speed,Buena Vista,$203.30 ,2014
+770,Hairspray,New Line,$202.50 ,2007
+771,Ponyo,Buena Vista,$202.40 ,2009
+772,Patch Adams,Universal,$202.30 ,1998
+773,Fun with Dick and Jane,Sony,$202.00 ,2005
+774,Teenage Mutant Ninja Turtles,New Line,$202.00 ,1990
+775,Kindergarten Cop,Universal,$202.00 ,1990
+776,Straight Outta Compton,Universal,$201.60 ,2015
+777,21 Jump Street,Sony,$201.60 ,2012
+778,Yogi Bear,Warner Brothers,$201.60 ,2010
+779,Garfield: The Movie,Fox,$200.80 ,2004
+780,Cats & Dogs,Warner Brothers,$200.70 ,2001
+781,The Hunt for Red October,Paramount,$200.50 ,1990
+782,Valkyrie,MGM,$200.30 ,2008
