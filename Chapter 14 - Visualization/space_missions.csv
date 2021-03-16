@@ -1,0 +1,121 @@
+Date,Company Name,Location,Cost,Status
+2/5/19,Arianespace,France,200,Success
+2/22/19,SpaceX,USA,50,Success
+3/2/19,SpaceX,USA,50,Success
+3/9/19,CASC,China,29.15,Success
+3/22/19,Arianespace,France,37,Success
+3/28/19,Rocket Lab,New Zealand,7.5,Success
+3/31/19,CASC,China,29.15,Success
+4/1/19,ISRO,India,21,Success
+4/4/19,Roscosmos,Kazakhstan,48.5,Success
+4/11/19,SpaceX,USA,90,Success
+4/17/19,Northrop,USA,85,Success
+4/20/19,CASC,China,29.15,Success
+4/29/19,CASC,China,64.68,Success
+5/4/19,SpaceX,USA,50,Success
+5/5/19,Rocket Lab,New Zealand,7.5,Success
+5/22/19,ISRO,India,21,Success
+5/22/19,CASC,China,64.68,Failure
+5/24/19,SpaceX,USA,50,Success
+5/30/19,Roscosmos,Kazakhstan,65,Success
+6/5/19,CASC,Yellow Sea,5.3,Success
+6/12/19,SpaceX,USA,50,Success
+6/20/19,Arianespace,France,200,Success
+6/24/19,CASC,China,29.15,Success
+6/25/19,SpaceX,USA,90,Success
+6/29/19,Rocket Lab,New Zealand,7.5,Success
+7/11/19,Arianespace,France,37,Failure
+7/13/19,Roscosmos,Kazakhstan,65,Success
+7/22/19,ISRO,India,62,Success
+7/25/19,SpaceX,USA,50,Success
+7/26/19,CASC,China,30.8,Success
+7/30/19,VKS RF,Russia,48.5,Success
+7/31/19,Roscosmos,Kazakhstan,48.5,Success
+8/5/19,Roscosmos,Kazakhstan,65,Success
+8/6/19,SpaceX,USA,50,Success
+8/6/19,Arianespace,France,200,Success
+8/8/19,ULA,USA,153,Success
+8/17/19,CASC,China,7.5,Success
+8/19/19,CASC,China,29.15,Success
+8/19/19,Rocket Lab,New Zealand,7.5,Success
+8/22/19,Roscosmos,Kazakhstan,48.5,Success
+8/22/19,ULA,USA,164,Success
+8/30/19,VKS RF,Russia,41.8,Success
+9/12/19,CASC,China,64.68,Success
+9/19/19,CASC,China,5.3,Success
+9/24/19,MHI,Japan,112.5,Success
+9/25/19,CASC,China,29.75,Success
+9/26/19,VKS RF,Russia,48.5,Success
+10/4/19,CASC,China,64.68,Success
+10/9/19,ILS,Kazakhstan,65,Success
+10/11/19,Northrop,USA,40,Success
+10/17/19,Rocket Lab,New Zealand,7.5,Success
+10/17/19,CASC,China,29.15,Success
+11/2/19,Northrop,USA,85,Success
+11/3/19,CASC,China,64.68,Success
+11/4/19,CASC,China,29.15,Success
+11/11/19,SpaceX,USA,50,Success
+11/26/19,Arianespace,France,200,Success
+11/27/19,CASC,China,64.68,Success
+11/27/19,ISRO,India,31,Success
+12/5/19,SpaceX,USA,50,Success
+12/6/19,Rocket Lab,New Zealand,7.5,Success
+12/6/19,Roscosmos,Kazakhstan,48.5,Success
+12/11/19,VKS RF,Russia,48.5,Success
+12/11/19,ISRO,India,21,Success
+12/17/19,SpaceX,USA,50,Success
+12/20/19,CASC,China,64.68,Success
+12/24/19,Roscosmos,Kazakhstan,65,Success
+12/26/19,VKS RF,Russia,41.8,Success
+1/7/20,CASC,China,29.15,Success
+1/7/20,SpaceX,USA,50,Success
+1/15/20,CASC,China,29.75,Success
+1/16/20,Arianespace,France,200,Success
+1/19/20,SpaceX,USA,50,Success
+1/29/20,SpaceX,USA,50,Success
+1/31/20,Rocket Lab,New Zealand,7.5,Success
+2/6/20,Arianespace,Kazakhstan,48.5,Success
+2/9/20,MHI,Japan,90,Success
+2/10/20,ULA,USA,115,Success
+2/15/20,Northrop,USA,85,Success
+2/17/20,SpaceX,USA,50,Success
+2/18/20,Arianespace,France,200,Success
+2/19/20,CASC,China,29.75,Success
+2/20/20,VKS RF,Russia,48.5,Success
+3/7/20,SpaceX,USA,50,Success
+3/9/20,CASC,China,29.15,Success
+3/18/20,SpaceX,USA,50,Success
+3/21/20,Arianespace,Kazakhstan,48.5,Success
+3/24/20,CASC,China,30.8,Success
+3/26/20,ULA,USA,153,Success
+4/9/20,Roscosmos,Kazakhstan,48.5,Success
+4/9/20,CASC,China,29.15,Failure
+4/22/20,SpaceX,USA,50,Success
+4/25/20,Roscosmos,Kazakhstan,48.5,Success
+5/17/20,ULA,USA,120,Success
+5/20/20,MHI,Japan,112.5,Success
+5/25/20,Virgin Orbit,USA,12,Failure
+5/29/20,CASC,China,5.3,Success
+5/30/20,SpaceX,USA,50,Success
+5/31/20,CASC,China,29.75,Success
+6/4/20,SpaceX,USA,50,Success
+6/10/20,CASC,China,30.8,Success
+6/13/20,Rocket Lab,New Zealand,7.5,Success
+6/13/20,SpaceX,USA,50,Success
+6/17/20,CASC,China,29.75,Success
+6/23/20,CASC,China,29.15,Success
+6/30/20,SpaceX,USA,50,Success
+7/3/20,CASC,China,64.68,Success
+7/4/20,CASC,China,29.75,Success
+7/4/20,Rocket Lab,New Zealand,7.5,Failure
+7/9/20,CASC,China,29.15,Success
+7/10/20,ExPace,China,28.3,Failure
+7/15/20,Northrop,USA,46,Success
+7/19/20,JAXA,Japan,90,Success
+7/20/20,SpaceX,USA,50,Success
+7/23/20,Roscosmos,Kazakhstan,48.5,Success
+7/25/20,CASC,China,64.68,Success
+7/30/20,ULA,USA,145,Success
+7/30/20,Roscosmos,Kazakhstan,65,Success
+8/6/20,CASC,China,29.75,Success
+8/7/20,SpaceX,USA,50,Success
