@@ -1,0 +1,2917 @@
+{
+  "shows": [
+    {
+      "show": "The X-Files",
+      "runtime": 60,
+      "network": "FOX",
+      "episodes": [
+        {
+          "season": 1,
+          "episode": 1,
+          "name": "Pilot",
+          "air_date": "1993-09-11 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 2,
+          "name": "Deep Throat",
+          "air_date": "1993-09-18 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 3,
+          "name": "Squeeze",
+          "air_date": "1993-09-25 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 4,
+          "name": "Conduit",
+          "air_date": "1993-10-02 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 5,
+          "name": "The Jersey Devil",
+          "air_date": "1993-10-09 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 6,
+          "name": "Shadows",
+          "air_date": "1993-10-23 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 7,
+          "name": "Ghost in the Machine",
+          "air_date": "1993-10-30 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 8,
+          "name": "Ice",
+          "air_date": "1993-11-06 02:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 9,
+          "name": "Space",
+          "air_date": "1993-11-13 02:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 10,
+          "name": "Fallen Angel",
+          "air_date": "1993-11-20 02:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 11,
+          "name": "Eve",
+          "air_date": "1993-12-11 02:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 12,
+          "name": "Fire",
+          "air_date": "1993-12-18 02:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 13,
+          "name": "Beyond the Sea",
+          "air_date": "1994-01-08 02:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 14,
+          "name": "Gender Bender",
+          "air_date": "1994-01-22 02:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 15,
+          "name": "Lazarus",
+          "air_date": "1994-02-05 02:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 16,
+          "name": "Young at Heart",
+          "air_date": "1994-02-12 02:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 17,
+          "name": "E.B.E.",
+          "air_date": "1994-02-19 02:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 18,
+          "name": "Miracle Man",
+          "air_date": "1994-03-19 02:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 19,
+          "name": "Shapes",
+          "air_date": "1994-04-02 02:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 20,
+          "name": "Darkness Falls",
+          "air_date": "1994-04-16 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 21,
+          "name": "Tooms",
+          "air_date": "1994-04-23 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 22,
+          "name": "Born Again",
+          "air_date": "1994-04-30 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 23,
+          "name": "Roland",
+          "air_date": "1994-05-07 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 24,
+          "name": "The Erlenmeyer Flask",
+          "air_date": "1994-05-14 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 1,
+          "name": "Little Green Men",
+          "air_date": "1994-09-17 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 2,
+          "name": "The Host",
+          "air_date": "1994-09-24 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 3,
+          "name": "Blood",
+          "air_date": "1994-10-01 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 4,
+          "name": "Sleepless",
+          "air_date": "1994-10-08 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 5,
+          "name": "Duane Barry (1)",
+          "air_date": "1994-10-15 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 6,
+          "name": "Ascension (2)",
+          "air_date": "1994-10-22 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 7,
+          "name": "3",
+          "air_date": "1994-11-05 02:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 8,
+          "name": "One Breath",
+          "air_date": "1994-11-12 02:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 9,
+          "name": "Firewalker",
+          "air_date": "1994-11-19 02:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 10,
+          "name": "Red Museum",
+          "air_date": "1994-12-10 02:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 11,
+          "name": "Excelsis Dei",
+          "air_date": "1994-12-17 02:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 12,
+          "name": "Aubrey",
+          "air_date": "1995-01-07 02:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 13,
+          "name": "Irresistible",
+          "air_date": "1995-01-14 02:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 14,
+          "name": "Die Hand die Verletzt",
+          "air_date": "1995-01-28 02:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 15,
+          "name": "Fresh Bones",
+          "air_date": "1995-02-04 02:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 16,
+          "name": "Colony (1)",
+          "air_date": "1995-02-11 02:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 17,
+          "name": "End Game (2)",
+          "air_date": "1995-02-18 02:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 18,
+          "name": "Fearful Symmetry",
+          "air_date": "1995-02-25 02:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 19,
+          "name": "Død Kalm",
+          "air_date": "1995-03-11 02:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 20,
+          "name": "Humbug",
+          "air_date": "1995-04-01 02:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 21,
+          "name": "The Calusari",
+          "air_date": "1995-04-15 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 22,
+          "name": "F. Emasculata",
+          "air_date": "1995-04-29 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 23,
+          "name": "Soft Light",
+          "air_date": "1995-05-06 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 24,
+          "name": "Our Town",
+          "air_date": "1995-05-13 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 25,
+          "name": "Anasazi",
+          "air_date": "1995-05-20 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 1,
+          "name": "The Blessing Way",
+          "air_date": "1995-09-23 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 2,
+          "name": "Paper Clip",
+          "air_date": "1995-09-30 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 3,
+          "name": "D.P.O.",
+          "air_date": "1995-10-07 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 4,
+          "name": "Clyde Bruckman's Final Repose",
+          "air_date": "1995-10-14 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 5,
+          "name": "The List",
+          "air_date": "1995-10-21 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 6,
+          "name": "2Shy",
+          "air_date": "1995-11-04 02:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 7,
+          "name": "The Walk",
+          "air_date": "1995-11-11 02:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 8,
+          "name": "Oubliette",
+          "air_date": "1995-11-18 02:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 9,
+          "name": "Nisei (1)",
+          "air_date": "1995-11-25 02:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 10,
+          "name": "731 (2)",
+          "air_date": "1995-12-02 02:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 11,
+          "name": "Revelations",
+          "air_date": "1995-12-16 02:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 12,
+          "name": "War of the Coprophages",
+          "air_date": "1996-01-06 02:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 13,
+          "name": "Syzygy",
+          "air_date": "1996-01-27 02:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 14,
+          "name": "Grotesque",
+          "air_date": "1996-02-03 02:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 15,
+          "name": "Piper Maru (1)",
+          "air_date": "1996-02-10 02:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 16,
+          "name": "Apocrypha (2)",
+          "air_date": "1996-02-17 02:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 17,
+          "name": "Pusher",
+          "air_date": "1996-02-24 02:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 18,
+          "name": "Teso dos Bichos",
+          "air_date": "1996-03-09 02:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 19,
+          "name": "Hell Money",
+          "air_date": "1996-03-30 02:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 20,
+          "name": "Jose Chung's 'From Outer Space'",
+          "air_date": "1996-04-13 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 21,
+          "name": "Avatar",
+          "air_date": "1996-04-27 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 22,
+          "name": "Quagmire",
+          "air_date": "1996-05-04 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 23,
+          "name": "Wetwired",
+          "air_date": "1996-05-11 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 24,
+          "name": "Talitha Cumi (1)",
+          "air_date": "1996-05-18 01:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 1,
+          "name": "Herrenvolk (2)",
+          "air_date": "1996-10-05 01:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 2,
+          "name": "Home",
+          "air_date": "1996-10-12 01:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 3,
+          "name": "Teliko",
+          "air_date": "1996-10-19 01:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 4,
+          "name": "Unruhe",
+          "air_date": "1996-10-28 02:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 5,
+          "name": "The Field Where I Died",
+          "air_date": "1996-11-04 02:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 6,
+          "name": "Sanguinarium",
+          "air_date": "1996-11-11 02:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 7,
+          "name": "Musings of a Cigarette-Smoking Man",
+          "air_date": "1996-11-18 02:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 8,
+          "name": "Tunguska (1)",
+          "air_date": "1996-11-25 02:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 9,
+          "name": "Terma (2)",
+          "air_date": "1996-12-02 02:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 10,
+          "name": "Paper Hearts",
+          "air_date": "1996-12-16 02:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 11,
+          "name": "El Mundo Gira",
+          "air_date": "1997-01-13 02:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 12,
+          "name": "Leonard Betts",
+          "air_date": "1997-01-27 02:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 13,
+          "name": "Never Again",
+          "air_date": "1997-02-03 02:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 14,
+          "name": "Memento Mori",
+          "air_date": "1997-02-10 02:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 15,
+          "name": "Kaddish",
+          "air_date": "1997-02-17 02:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 16,
+          "name": "Unrequited",
+          "air_date": "1997-02-24 02:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 17,
+          "name": "Tempus Fugit (1)",
+          "air_date": "1997-03-17 02:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 18,
+          "name": "Max (2)",
+          "air_date": "1997-03-24 02:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 19,
+          "name": "Synchrony",
+          "air_date": "1997-04-14 01:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 20,
+          "name": "Small Potatoes",
+          "air_date": "1997-04-21 01:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 21,
+          "name": "Zero Sum",
+          "air_date": "1997-04-28 01:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 22,
+          "name": "Elegy",
+          "air_date": "1997-05-05 01:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 23,
+          "name": "Demons",
+          "air_date": "1997-05-12 01:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 24,
+          "name": "Gethsemane",
+          "air_date": "1997-05-19 01:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 1,
+          "name": "Redux (1)",
+          "air_date": "1997-11-03 02:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 2,
+          "name": "Redux (2)",
+          "air_date": "1997-11-10 02:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 3,
+          "name": "Unusual Suspects",
+          "air_date": "1997-11-17 02:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 4,
+          "name": "Detour",
+          "air_date": "1997-11-24 02:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 5,
+          "name": "The Post-Modern Prometheus",
+          "air_date": "1997-12-01 02:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 6,
+          "name": "Christmas Carol (1)",
+          "air_date": "1997-12-08 02:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 7,
+          "name": "Emily (2)",
+          "air_date": "1997-12-15 02:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 8,
+          "name": "Kitsunegari",
+          "air_date": "1998-01-05 02:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 9,
+          "name": "Schizogeny",
+          "air_date": "1998-01-12 02:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 10,
+          "name": "Chinga",
+          "air_date": "1998-02-09 02:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 11,
+          "name": "Kill Switch",
+          "air_date": "1998-02-16 02:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 12,
+          "name": "Bad Blood",
+          "air_date": "1998-02-23 02:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 13,
+          "name": "Patient X (1)",
+          "air_date": "1998-03-02 02:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 14,
+          "name": "The Red and the Black (2)",
+          "air_date": "1998-03-09 02:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 15,
+          "name": "Travelers",
+          "air_date": "1998-03-30 02:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 16,
+          "name": "Mind's Eye",
+          "air_date": "1998-04-20 01:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 17,
+          "name": "All Souls",
+          "air_date": "1998-04-27 01:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 18,
+          "name": "The Pine Bluff Variant",
+          "air_date": "1998-05-04 01:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 19,
+          "name": "Folie a Deux",
+          "air_date": "1998-05-11 01:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 20,
+          "name": "The End",
+          "air_date": "1998-05-18 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 1,
+          "name": "The Beginning",
+          "air_date": "1998-11-09 02:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 2,
+          "name": "Drive",
+          "air_date": "1998-11-16 02:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 3,
+          "name": "Triangle",
+          "air_date": "1998-11-23 02:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 4,
+          "name": "Dreamland (1)",
+          "air_date": "1998-11-30 02:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 5,
+          "name": "Dreamland (2)",
+          "air_date": "1998-12-07 02:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 6,
+          "name": "How the Ghosts Stole Christmas",
+          "air_date": "1998-12-14 02:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 7,
+          "name": "Terms of Endearment",
+          "air_date": "1999-01-04 02:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 8,
+          "name": "The Rain King",
+          "air_date": "1999-01-11 02:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 9,
+          "name": "S.R. 819",
+          "air_date": "1999-01-18 02:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 10,
+          "name": "Tithonus",
+          "air_date": "1999-01-25 02:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 11,
+          "name": "Two Fathers (1)",
+          "air_date": "1999-02-08 02:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 12,
+          "name": "One Son (2)",
+          "air_date": "1999-02-15 02:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 13,
+          "name": "Agua Mala",
+          "air_date": "1999-02-22 02:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 14,
+          "name": "Monday",
+          "air_date": "1999-03-01 02:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 15,
+          "name": "Arcadia",
+          "air_date": "1999-03-08 02:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 16,
+          "name": "Alpha",
+          "air_date": "1999-03-29 02:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 17,
+          "name": "Trevor",
+          "air_date": "1999-04-12 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 18,
+          "name": "Milagro",
+          "air_date": "1999-04-19 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 19,
+          "name": "The Unnatural",
+          "air_date": "1999-04-26 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 20,
+          "name": "Three of a Kind",
+          "air_date": "1999-05-03 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 21,
+          "name": "Field Trip",
+          "air_date": "1999-05-10 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 22,
+          "name": "Biogenesis",
+          "air_date": "1999-05-17 01:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 1,
+          "name": "The Sixth Extinction (1)",
+          "air_date": "1999-11-08 02:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 2,
+          "name": "The Sixth Extinction (2): Amor Fati",
+          "air_date": "1999-11-15 02:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 3,
+          "name": "Hungry",
+          "air_date": "1999-11-22 02:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 4,
+          "name": "Millennium",
+          "air_date": "1999-11-29 02:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 5,
+          "name": "Rush",
+          "air_date": "1999-12-06 02:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 6,
+          "name": "The Goldberg Variation",
+          "air_date": "1999-12-13 02:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 7,
+          "name": "Orison",
+          "air_date": "2000-01-10 02:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 8,
+          "name": "The Amazing Maleeni",
+          "air_date": "2000-01-17 02:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 9,
+          "name": "Signs and Wonders",
+          "air_date": "2000-01-24 02:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 10,
+          "name": "Sein und Zeit (1)",
+          "air_date": "2000-02-07 02:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 11,
+          "name": "Closure (2)",
+          "air_date": "2000-02-14 02:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 12,
+          "name": "X-Cops",
+          "air_date": "2000-02-21 02:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 13,
+          "name": "First Person Shooter",
+          "air_date": "2000-02-28 02:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 14,
+          "name": "Theef",
+          "air_date": "2000-03-13 02:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 15,
+          "name": "En Ami",
+          "air_date": "2000-03-20 02:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 16,
+          "name": "Chimera",
+          "air_date": "2000-04-03 01:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 17,
+          "name": "all things",
+          "air_date": "2000-04-10 01:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 18,
+          "name": "Brand X",
+          "air_date": "2000-04-17 01:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 19,
+          "name": "Hollywood A.D.",
+          "air_date": "2000-05-01 01:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 20,
+          "name": "Fight Club",
+          "air_date": "2000-05-08 01:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 21,
+          "name": "Je Souhaite",
+          "air_date": "2000-05-15 01:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 22,
+          "name": "Requiem",
+          "air_date": "2000-05-22 01:00:00"
+        },
+        {
+          "season": 8,
+          "episode": 1,
+          "name": "Within (1)",
+          "air_date": "2000-11-06 02:00:00"
+        },
+        {
+          "season": 8,
+          "episode": 2,
+          "name": "Without (2)",
+          "air_date": "2000-11-13 02:00:00"
+        },
+        {
+          "season": 8,
+          "episode": 3,
+          "name": "Patience",
+          "air_date": "2000-11-20 02:00:00"
+        },
+        {
+          "season": 8,
+          "episode": 4,
+          "name": "Roadrunners",
+          "air_date": "2000-11-27 02:00:00"
+        },
+        {
+          "season": 8,
+          "episode": 5,
+          "name": "Invocation",
+          "air_date": "2000-12-04 02:00:00"
+        },
+        {
+          "season": 8,
+          "episode": 6,
+          "name": "Redrum",
+          "air_date": "2000-12-11 02:00:00"
+        },
+        {
+          "season": 8,
+          "episode": 7,
+          "name": "Via Negativa",
+          "air_date": "2000-12-18 02:00:00"
+        },
+        {
+          "season": 8,
+          "episode": 8,
+          "name": "Surekill",
+          "air_date": "2001-01-08 02:00:00"
+        },
+        {
+          "season": 8,
+          "episode": 9,
+          "name": "Salvage",
+          "air_date": "2001-01-15 02:00:00"
+        },
+        {
+          "season": 8,
+          "episode": 10,
+          "name": "Badlaa",
+          "air_date": "2001-01-22 02:00:00"
+        },
+        {
+          "season": 8,
+          "episode": 11,
+          "name": "The Gift",
+          "air_date": "2001-02-05 02:00:00"
+        },
+        {
+          "season": 8,
+          "episode": 12,
+          "name": "Medusa",
+          "air_date": "2001-02-12 02:00:00"
+        },
+        {
+          "season": 8,
+          "episode": 13,
+          "name": "Per Manum",
+          "air_date": "2001-02-19 02:00:00"
+        },
+        {
+          "season": 8,
+          "episode": 14,
+          "name": "This is Not Happening (1)",
+          "air_date": "2001-02-26 02:00:00"
+        },
+        {
+          "season": 8,
+          "episode": 15,
+          "name": "DeadAlive (2)",
+          "air_date": "2001-04-02 01:00:00"
+        },
+        {
+          "season": 8,
+          "episode": 16,
+          "name": "Three Words",
+          "air_date": "2001-04-09 01:00:00"
+        },
+        {
+          "season": 8,
+          "episode": 17,
+          "name": "Empedocles",
+          "air_date": "2001-04-16 01:00:00"
+        },
+        {
+          "season": 8,
+          "episode": 18,
+          "name": "Vienen",
+          "air_date": "2001-04-23 01:00:00"
+        },
+        {
+          "season": 8,
+          "episode": 19,
+          "name": "Alone",
+          "air_date": "2001-05-07 01:00:00"
+        },
+        {
+          "season": 8,
+          "episode": 20,
+          "name": "Essence (1)",
+          "air_date": "2001-05-14 01:00:00"
+        },
+        {
+          "season": 8,
+          "episode": 21,
+          "name": "Existence (2)",
+          "air_date": "2001-05-21 01:00:00"
+        },
+        {
+          "season": 9,
+          "episode": 1,
+          "name": "Nothing Important Happened Today (1)",
+          "air_date": "2001-11-12 02:00:00"
+        },
+        {
+          "season": 9,
+          "episode": 2,
+          "name": "Nothing Important Happened Today (2)",
+          "air_date": "2001-11-19 02:00:00"
+        },
+        {
+          "season": 9,
+          "episode": 3,
+          "name": "Dæmonicus",
+          "air_date": "2001-12-03 02:00:00"
+        },
+        {
+          "season": 9,
+          "episode": 4,
+          "name": "4-D",
+          "air_date": "2001-12-10 02:00:00"
+        },
+        {
+          "season": 9,
+          "episode": 5,
+          "name": "Lord of the Flies",
+          "air_date": "2001-12-17 02:00:00"
+        },
+        {
+          "season": 9,
+          "episode": 6,
+          "name": "Trust No 1",
+          "air_date": "2002-01-07 02:00:00"
+        },
+        {
+          "season": 9,
+          "episode": 7,
+          "name": "John Doe",
+          "air_date": "2002-01-14 02:00:00"
+        },
+        {
+          "season": 9,
+          "episode": 8,
+          "name": "Hellbound",
+          "air_date": "2002-01-28 02:00:00"
+        },
+        {
+          "season": 9,
+          "episode": 9,
+          "name": "Provenance (1)",
+          "air_date": "2002-03-04 02:00:00"
+        },
+        {
+          "season": 9,
+          "episode": 10,
+          "name": "Providence (2)",
+          "air_date": "2002-03-11 02:00:00"
+        },
+        {
+          "season": 9,
+          "episode": 11,
+          "name": "Audrey Pauley",
+          "air_date": "2002-03-18 02:00:00"
+        },
+        {
+          "season": 9,
+          "episode": 12,
+          "name": "Underneath",
+          "air_date": "2002-04-01 02:00:00"
+        },
+        {
+          "season": 9,
+          "episode": 13,
+          "name": "Improbable",
+          "air_date": "2002-04-08 01:00:00"
+        },
+        {
+          "season": 9,
+          "episode": 14,
+          "name": "Scary Monsters",
+          "air_date": "2002-04-15 01:00:00"
+        },
+        {
+          "season": 9,
+          "episode": 15,
+          "name": "Jump the Shark",
+          "air_date": "2002-04-22 01:00:00"
+        },
+        {
+          "season": 9,
+          "episode": 16,
+          "name": "William",
+          "air_date": "2002-04-29 01:00:00"
+        },
+        {
+          "season": 9,
+          "episode": 17,
+          "name": "Release",
+          "air_date": "2002-05-06 01:00:00"
+        },
+        {
+          "season": 9,
+          "episode": 18,
+          "name": "Sunshine Days",
+          "air_date": "2002-05-13 01:00:00"
+        },
+        {
+          "season": 9,
+          "episode": 19,
+          "name": "The Truth (1)",
+          "air_date": "2002-05-20 01:00:00"
+        },
+        {
+          "season": 9,
+          "episode": 20,
+          "name": "The Truth (2)",
+          "air_date": "2002-05-20 01:00:00"
+        },
+        {
+          "season": 10,
+          "episode": 1,
+          "name": "My Struggle",
+          "air_date": "2016-01-25 03:00:00"
+        },
+        {
+          "season": 10,
+          "episode": 2,
+          "name": "Founder's Mutation",
+          "air_date": "2016-01-26 01:00:00"
+        },
+        {
+          "season": 10,
+          "episode": 3,
+          "name": "Mulder and Scully Meet the Were-Monster",
+          "air_date": "2016-02-02 01:00:00"
+        },
+        {
+          "season": 10,
+          "episode": 4,
+          "name": "Home Again",
+          "air_date": "2016-02-09 01:00:00"
+        },
+        {
+          "season": 10,
+          "episode": 5,
+          "name": "Babylon",
+          "air_date": "2016-02-16 01:00:00"
+        },
+        {
+          "season": 10,
+          "episode": 6,
+          "name": "My Struggle II",
+          "air_date": "2016-02-23 01:00:00"
+        },
+        {
+          "season": 11,
+          "episode": 1,
+          "name": "My Struggle III",
+          "air_date": "2018-01-04 01:00:00"
+        },
+        {
+          "season": 11,
+          "episode": 2,
+          "name": "This",
+          "air_date": "2018-01-11 01:00:00"
+        },
+        {
+          "season": 11,
+          "episode": 3,
+          "name": "Plus One",
+          "air_date": "2018-01-18 01:00:00"
+        },
+        {
+          "season": 11,
+          "episode": 4,
+          "name": "The Lost Art of Forehead Sweat",
+          "air_date": "2018-01-25 01:00:00"
+        },
+        {
+          "season": 11,
+          "episode": 5,
+          "name": "Ghouli",
+          "air_date": "2018-02-01 01:00:00"
+        },
+        {
+          "season": 11,
+          "episode": 6,
+          "name": "Kitten",
+          "air_date": "2018-02-08 01:00:00"
+        },
+        {
+          "season": 11,
+          "episode": 7,
+          "name": "Rm9sbG93ZXJz",
+          "air_date": "2018-03-01 01:00:00"
+        },
+        {
+          "season": 11,
+          "episode": 8,
+          "name": "Familiar",
+          "air_date": "2018-03-08 01:00:00"
+        },
+        {
+          "season": 11,
+          "episode": 9,
+          "name": "Nothing Lasts Forever",
+          "air_date": "2018-03-15 00:00:00"
+        },
+        {
+          "season": 11,
+          "episode": 10,
+          "name": "My Struggle IV",
+          "air_date": "2018-03-22 00:00:00"
+        }
+      ]
+    },
+    {
+      "show": "Lost",
+      "runtime": 60,
+      "network": "ABC",
+      "episodes": [
+        {
+          "season": 1,
+          "episode": 1,
+          "name": "Pilot (1)",
+          "air_date": "2004-09-23 00:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 2,
+          "name": "Pilot (2)",
+          "air_date": "2004-09-30 00:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 3,
+          "name": "Tabula Rasa",
+          "air_date": "2004-10-07 00:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 4,
+          "name": "Walkabout",
+          "air_date": "2004-10-14 00:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 5,
+          "name": "White Rabbit",
+          "air_date": "2004-10-21 00:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 6,
+          "name": "House of the Rising Sun",
+          "air_date": "2004-10-28 00:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 7,
+          "name": "The Moth",
+          "air_date": "2004-11-04 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 8,
+          "name": "Confidence Man",
+          "air_date": "2004-11-11 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 9,
+          "name": "Solitary",
+          "air_date": "2004-11-18 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 10,
+          "name": "Raised by Another",
+          "air_date": "2004-12-02 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 11,
+          "name": "All the Best Cowboys Have Daddy Issues",
+          "air_date": "2004-12-09 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 12,
+          "name": "Whatever the Case May Be",
+          "air_date": "2005-01-06 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 13,
+          "name": "Hearts and Minds",
+          "air_date": "2005-01-13 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 14,
+          "name": "Special",
+          "air_date": "2005-01-20 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 15,
+          "name": "Homecoming",
+          "air_date": "2005-02-10 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 16,
+          "name": "Outlaws",
+          "air_date": "2005-02-17 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 17,
+          "name": "...In Translation",
+          "air_date": "2005-02-24 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 18,
+          "name": "Numbers",
+          "air_date": "2005-03-03 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 19,
+          "name": "Deus ex Machina",
+          "air_date": "2005-03-31 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 20,
+          "name": "Do No Harm",
+          "air_date": "2005-04-07 00:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 21,
+          "name": "The Greater Good",
+          "air_date": "2005-05-05 00:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 22,
+          "name": "Born to Run",
+          "air_date": "2005-05-12 00:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 23,
+          "name": "Exodus (1)",
+          "air_date": "2005-05-19 00:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 24,
+          "name": "Exodus (2)",
+          "air_date": "2005-05-26 00:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 25,
+          "name": "Exodus (3)",
+          "air_date": "2005-05-26 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 1,
+          "name": "Man of Science, Man of Faith",
+          "air_date": "2005-09-22 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 2,
+          "name": "Adrift",
+          "air_date": "2005-09-29 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 3,
+          "name": "Orientation",
+          "air_date": "2005-10-06 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 4,
+          "name": "Everybody Hates Hugo",
+          "air_date": "2005-10-13 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 5,
+          "name": "...And Found",
+          "air_date": "2005-10-20 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 6,
+          "name": "Abandoned",
+          "air_date": "2005-11-10 02:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 7,
+          "name": "The Other 48 Days",
+          "air_date": "2005-11-17 02:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 8,
+          "name": "Collision",
+          "air_date": "2005-11-24 02:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 9,
+          "name": "What Kate Did",
+          "air_date": "2005-12-01 02:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 10,
+          "name": "The 23rd Psalm",
+          "air_date": "2006-01-12 02:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 11,
+          "name": "The Hunting Party",
+          "air_date": "2006-01-19 02:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 12,
+          "name": "Fire + Water",
+          "air_date": "2006-01-26 02:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 13,
+          "name": "The Long Con",
+          "air_date": "2006-02-09 02:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 14,
+          "name": "One of Them",
+          "air_date": "2006-02-16 02:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 15,
+          "name": "Maternity Leave",
+          "air_date": "2006-03-02 02:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 16,
+          "name": "The Whole Truth",
+          "air_date": "2006-03-23 02:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 17,
+          "name": "Lockdown",
+          "air_date": "2006-03-30 02:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 18,
+          "name": "Dave",
+          "air_date": "2006-04-06 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 19,
+          "name": "S.O.S.",
+          "air_date": "2006-04-13 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 20,
+          "name": "Two for the Road",
+          "air_date": "2006-05-04 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 21,
+          "name": "?",
+          "air_date": "2006-05-11 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 22,
+          "name": "Three Minutes",
+          "air_date": "2006-05-18 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 23,
+          "name": "Live Together, Die Alone (1)",
+          "air_date": "2006-05-25 00:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 24,
+          "name": "Live Together, Die Alone (2)",
+          "air_date": "2006-05-25 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 1,
+          "name": "A Tale of Two Cities",
+          "air_date": "2006-10-05 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 2,
+          "name": "The Glass Ballerina",
+          "air_date": "2006-10-12 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 3,
+          "name": "Further Instructions",
+          "air_date": "2006-10-19 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 4,
+          "name": "Every Man for Himself",
+          "air_date": "2006-10-26 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 5,
+          "name": "The Cost of Living",
+          "air_date": "2006-11-02 02:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 6,
+          "name": "I Do",
+          "air_date": "2006-11-09 02:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 7,
+          "name": "Not in Portland",
+          "air_date": "2007-02-08 03:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 8,
+          "name": "Flashes Before Your Eyes",
+          "air_date": "2007-02-15 03:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 9,
+          "name": "Stranger in a Strange Land",
+          "air_date": "2007-02-22 03:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 10,
+          "name": "Tricia Tanaka is Dead",
+          "air_date": "2007-03-01 03:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 11,
+          "name": "Enter 77",
+          "air_date": "2007-03-08 03:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 12,
+          "name": "Par Avion",
+          "air_date": "2007-03-15 02:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 13,
+          "name": "The Man from Tallahassee",
+          "air_date": "2007-03-22 02:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 14,
+          "name": "Exposé",
+          "air_date": "2007-03-29 02:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 15,
+          "name": "Left Behind",
+          "air_date": "2007-04-05 02:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 16,
+          "name": "One of Us",
+          "air_date": "2007-04-12 02:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 17,
+          "name": "Catch-22",
+          "air_date": "2007-04-19 02:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 18,
+          "name": "D.O.C.",
+          "air_date": "2007-04-26 02:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 19,
+          "name": "The Brig",
+          "air_date": "2007-05-03 02:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 20,
+          "name": "The Man Behind the Curtain",
+          "air_date": "2007-05-10 02:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 21,
+          "name": "Greatest Hits",
+          "air_date": "2007-05-17 02:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 22,
+          "name": "Through the Looking Glass (1)",
+          "air_date": "2007-05-24 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 23,
+          "name": "Through the Looking Glass (2)",
+          "air_date": "2007-05-24 01:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 1,
+          "name": "The Beginning of the End",
+          "air_date": "2008-02-01 02:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 2,
+          "name": "Confirmed Dead",
+          "air_date": "2008-02-08 02:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 3,
+          "name": "The Economist",
+          "air_date": "2008-02-15 02:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 4,
+          "name": "Eggtown",
+          "air_date": "2008-02-22 02:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 5,
+          "name": "The Constant",
+          "air_date": "2008-02-29 02:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 6,
+          "name": "The Other Woman",
+          "air_date": "2008-03-07 02:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 7,
+          "name": "Ji Yeon",
+          "air_date": "2008-03-14 01:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 8,
+          "name": "Meet Kevin Johnson",
+          "air_date": "2008-03-21 01:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 9,
+          "name": "The Shape of Things to Come",
+          "air_date": "2008-04-25 02:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 10,
+          "name": "Something Nice Back Home",
+          "air_date": "2008-05-02 02:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 11,
+          "name": "Cabin Fever",
+          "air_date": "2008-05-09 02:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 12,
+          "name": "There's No Place Like Home (1)",
+          "air_date": "2008-05-16 02:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 13,
+          "name": "There's No Place Like Home (2)",
+          "air_date": "2008-05-30 01:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 14,
+          "name": "There's No Place Like Home (3)",
+          "air_date": "2008-05-30 01:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 1,
+          "name": "Because You Left",
+          "air_date": "2009-01-22 02:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 2,
+          "name": "The Lie",
+          "air_date": "2009-01-22 02:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 3,
+          "name": "Jughead",
+          "air_date": "2009-01-29 02:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 4,
+          "name": "The Little Prince",
+          "air_date": "2009-02-05 02:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 5,
+          "name": "This Place is Death",
+          "air_date": "2009-02-12 02:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 6,
+          "name": "316",
+          "air_date": "2009-02-19 02:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 7,
+          "name": "The Life and Death of Jeremy Bentham",
+          "air_date": "2009-02-26 02:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 8,
+          "name": "LaFleur",
+          "air_date": "2009-03-05 02:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 9,
+          "name": "Namaste",
+          "air_date": "2009-03-19 01:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 10,
+          "name": "He's Our You",
+          "air_date": "2009-03-26 01:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 11,
+          "name": "Whatever Happened, Happened",
+          "air_date": "2009-04-02 01:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 12,
+          "name": "Dead is Dead",
+          "air_date": "2009-04-09 01:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 13,
+          "name": "Some Like It Hoth",
+          "air_date": "2009-04-16 01:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 14,
+          "name": "The Variable",
+          "air_date": "2009-04-30 01:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 15,
+          "name": "Follow the Leader",
+          "air_date": "2009-05-07 01:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 16,
+          "name": "The Incident (1)",
+          "air_date": "2009-05-14 01:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 17,
+          "name": "The Incident (2)",
+          "air_date": "2009-05-14 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 1,
+          "name": "LA X (1)",
+          "air_date": "2010-02-03 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 2,
+          "name": "LA X (2)",
+          "air_date": "2010-02-03 02:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 3,
+          "name": "What Kate Does",
+          "air_date": "2010-02-10 02:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 4,
+          "name": "The Substitute",
+          "air_date": "2010-02-17 02:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 5,
+          "name": "Lighthouse",
+          "air_date": "2010-02-24 02:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 6,
+          "name": "Sundown",
+          "air_date": "2010-03-03 02:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 7,
+          "name": "Dr. Linus",
+          "air_date": "2010-03-10 02:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 8,
+          "name": "Recon",
+          "air_date": "2010-03-17 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 9,
+          "name": "Ab Aeterno",
+          "air_date": "2010-03-24 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 10,
+          "name": "The Package",
+          "air_date": "2010-03-31 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 11,
+          "name": "Happily Ever After",
+          "air_date": "2010-04-07 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 12,
+          "name": "Everybody Loves Hugo",
+          "air_date": "2010-04-14 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 13,
+          "name": "The Last Recruit",
+          "air_date": "2010-04-21 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 14,
+          "name": "The Candidate",
+          "air_date": "2010-05-05 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 15,
+          "name": "Across the Sea",
+          "air_date": "2010-05-12 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 16,
+          "name": "What They Died For",
+          "air_date": "2010-05-19 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 17,
+          "name": "The End (1)",
+          "air_date": "2010-05-24 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 18,
+          "name": "The End (2)",
+          "air_date": "2010-05-24 01:00:00"
+        }
+      ]
+    },
+    {
+      "show": "Buffy the Vampire Slayer",
+      "runtime": 60,
+      "network": "UPN",
+      "episodes": [
+        {
+          "season": 1,
+          "episode": 1,
+          "name": "Welcome to the Hellmouth",
+          "air_date": "1997-03-11 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 2,
+          "name": "The Harvest",
+          "air_date": "1997-03-11 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 3,
+          "name": "Witch",
+          "air_date": "1997-03-18 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 4,
+          "name": "Teacher's Pet",
+          "air_date": "1997-03-26 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 5,
+          "name": "Never Kill a Boy on the First Date",
+          "air_date": "1997-04-01 01:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 6,
+          "name": "The Pack",
+          "air_date": "1997-04-08 00:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 7,
+          "name": "Angel",
+          "air_date": "1997-04-15 00:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 8,
+          "name": "I, Robot... You, Jane",
+          "air_date": "1997-04-29 00:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 9,
+          "name": "The Puppet Show",
+          "air_date": "1997-05-06 00:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 10,
+          "name": "Nightmares",
+          "air_date": "1997-05-13 00:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 11,
+          "name": "Out of Mind, Out of Sight",
+          "air_date": "1997-05-20 00:00:00"
+        },
+        {
+          "season": 1,
+          "episode": 12,
+          "name": "Prophecy Girl",
+          "air_date": "1997-06-03 00:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 1,
+          "name": "When She Was Bad",
+          "air_date": "1997-09-16 00:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 2,
+          "name": "Some Assembly Required",
+          "air_date": "1997-09-23 00:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 3,
+          "name": "School Hard",
+          "air_date": "1997-09-30 00:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 4,
+          "name": "Inca Mummy Girl",
+          "air_date": "1997-10-07 00:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 5,
+          "name": "Reptile Boy",
+          "air_date": "1997-10-14 00:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 6,
+          "name": "Halloween",
+          "air_date": "1997-10-28 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 7,
+          "name": "Lie to Me",
+          "air_date": "1997-11-04 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 8,
+          "name": "The Dark Age",
+          "air_date": "1997-11-11 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 9,
+          "name": "What's My Line?: Part I",
+          "air_date": "1997-11-18 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 10,
+          "name": "What's My Line?: Part II",
+          "air_date": "1997-11-25 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 11,
+          "name": "Ted",
+          "air_date": "1997-12-09 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 12,
+          "name": "Bad Eggs",
+          "air_date": "1998-01-13 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 13,
+          "name": "Surprise",
+          "air_date": "1998-01-20 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 14,
+          "name": "Innocence",
+          "air_date": "1998-01-21 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 15,
+          "name": "Phases",
+          "air_date": "1998-01-28 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 16,
+          "name": "Bewitched, Bothered and Bewildered",
+          "air_date": "1998-02-11 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 17,
+          "name": "Passion",
+          "air_date": "1998-02-25 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 18,
+          "name": "Killed by Death",
+          "air_date": "1998-03-04 01:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 19,
+          "name": "I Only Have Eyes for You",
+          "air_date": "1998-04-29 00:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 20,
+          "name": "Go Fish",
+          "air_date": "1998-05-06 00:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 21,
+          "name": "Becoming: Part I",
+          "air_date": "1998-05-13 00:00:00"
+        },
+        {
+          "season": 2,
+          "episode": 22,
+          "name": "Becoming: Part II",
+          "air_date": "1998-05-20 00:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 1,
+          "name": "Anne",
+          "air_date": "1998-09-30 00:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 2,
+          "name": "Dead Man's Party",
+          "air_date": "1998-10-07 00:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 3,
+          "name": "Faith, Hope & Trick",
+          "air_date": "1998-10-14 00:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 4,
+          "name": "Beauty and the Beasts",
+          "air_date": "1998-10-21 00:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 5,
+          "name": "Homecoming",
+          "air_date": "1998-11-04 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 6,
+          "name": "Band Candy",
+          "air_date": "1998-11-11 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 7,
+          "name": "Revelations",
+          "air_date": "1998-11-18 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 8,
+          "name": "Lovers Walk",
+          "air_date": "1998-11-25 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 9,
+          "name": "The Wish",
+          "air_date": "1998-12-09 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 10,
+          "name": "Amends",
+          "air_date": "1998-12-16 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 11,
+          "name": "Gingerbread",
+          "air_date": "1999-01-13 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 12,
+          "name": "Helpless",
+          "air_date": "1999-01-20 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 13,
+          "name": "The Zeppo",
+          "air_date": "1999-01-27 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 14,
+          "name": "Bad Girls",
+          "air_date": "1999-02-10 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 15,
+          "name": "Consequences",
+          "air_date": "1999-02-17 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 16,
+          "name": "Doppelgangland",
+          "air_date": "1999-02-24 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 17,
+          "name": "Enemies",
+          "air_date": "1999-03-17 01:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 18,
+          "name": "Earshot",
+          "air_date": "1999-04-15 00:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 19,
+          "name": "Choices",
+          "air_date": "1999-05-05 00:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 20,
+          "name": "The Prom",
+          "air_date": "1999-05-12 00:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 21,
+          "name": "Graduation Day: Part I",
+          "air_date": "1999-05-19 00:00:00"
+        },
+        {
+          "season": 3,
+          "episode": 22,
+          "name": "Graduation Day: Part II",
+          "air_date": "1999-07-14 00:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 1,
+          "name": "The Freshman",
+          "air_date": "1999-10-06 00:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 2,
+          "name": "Living Conditions",
+          "air_date": "1999-10-13 00:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 3,
+          "name": "The Harsh Light of Day",
+          "air_date": "1999-10-20 00:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 4,
+          "name": "Fear, Itself",
+          "air_date": "1999-10-27 00:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 5,
+          "name": "Beer Bad",
+          "air_date": "1999-11-03 01:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 6,
+          "name": "Wild at Heart",
+          "air_date": "1999-11-10 01:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 7,
+          "name": "The Initiative",
+          "air_date": "1999-11-17 01:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 8,
+          "name": "Pangs",
+          "air_date": "1999-11-24 01:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 9,
+          "name": "Something Blue",
+          "air_date": "1999-12-01 01:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 10,
+          "name": "Hush",
+          "air_date": "1999-12-15 01:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 11,
+          "name": "Doomed",
+          "air_date": "2000-01-19 01:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 12,
+          "name": "A New Man",
+          "air_date": "2000-01-26 01:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 13,
+          "name": "The I in Team",
+          "air_date": "2000-02-09 01:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 14,
+          "name": "Goodbye Iowa",
+          "air_date": "2000-02-16 01:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 15,
+          "name": "This Year's Girl",
+          "air_date": "2000-02-23 01:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 16,
+          "name": "Who Are You?",
+          "air_date": "2000-03-01 01:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 17,
+          "name": "Superstar",
+          "air_date": "2000-04-05 00:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 18,
+          "name": "Where the Wild Things Are",
+          "air_date": "2000-04-26 00:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 19,
+          "name": "New Moon Rising",
+          "air_date": "2000-05-03 00:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 20,
+          "name": "The Yoko Factor",
+          "air_date": "2000-05-10 00:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 21,
+          "name": "Primeval",
+          "air_date": "2000-05-17 00:00:00"
+        },
+        {
+          "season": 4,
+          "episode": 22,
+          "name": "Restless",
+          "air_date": "2000-05-24 00:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 1,
+          "name": "Buffy vs. Dracula",
+          "air_date": "2000-09-27 00:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 2,
+          "name": "Real Me",
+          "air_date": "2000-10-04 00:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 3,
+          "name": "The Replacement",
+          "air_date": "2000-10-11 00:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 4,
+          "name": "Out of My Mind",
+          "air_date": "2000-10-18 00:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 5,
+          "name": "No Place Like Home",
+          "air_date": "2000-10-25 00:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 6,
+          "name": "Family",
+          "air_date": "2000-11-08 01:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 7,
+          "name": "Fool for Love",
+          "air_date": "2000-11-15 01:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 8,
+          "name": "Shadow",
+          "air_date": "2000-11-22 01:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 9,
+          "name": "Listening to Fear",
+          "air_date": "2000-11-29 01:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 10,
+          "name": "Into the Woods",
+          "air_date": "2000-12-20 01:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 11,
+          "name": "Triangle",
+          "air_date": "2001-01-10 01:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 12,
+          "name": "Checkpoint",
+          "air_date": "2001-01-24 01:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 13,
+          "name": "Blood Ties",
+          "air_date": "2001-02-07 01:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 14,
+          "name": "Crush",
+          "air_date": "2001-02-14 01:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 15,
+          "name": "I Was Made to Love You",
+          "air_date": "2001-02-21 01:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 16,
+          "name": "The Body",
+          "air_date": "2001-02-28 01:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 17,
+          "name": "Forever",
+          "air_date": "2001-04-18 00:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 18,
+          "name": "Intervention",
+          "air_date": "2001-04-25 00:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 19,
+          "name": "Tough Love",
+          "air_date": "2001-05-02 00:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 20,
+          "name": "Spiral",
+          "air_date": "2001-05-09 00:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 21,
+          "name": "The Weight of the World",
+          "air_date": "2001-05-16 00:00:00"
+        },
+        {
+          "season": 5,
+          "episode": 22,
+          "name": "The Gift",
+          "air_date": "2001-05-23 00:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 1,
+          "name": "Bargaining",
+          "air_date": "2001-10-03 00:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 2,
+          "name": "After Life",
+          "air_date": "2001-10-10 00:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 3,
+          "name": "Flooded",
+          "air_date": "2001-10-17 00:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 4,
+          "name": "Life Serial",
+          "air_date": "2001-10-24 00:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 5,
+          "name": "All the Way",
+          "air_date": "2001-10-31 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 6,
+          "name": "Once More, with Feeling",
+          "air_date": "2001-11-07 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 7,
+          "name": "Tabula Rasa",
+          "air_date": "2001-11-14 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 8,
+          "name": "Smashed",
+          "air_date": "2001-11-21 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 9,
+          "name": "Wrecked",
+          "air_date": "2001-11-28 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 10,
+          "name": "Gone",
+          "air_date": "2002-01-09 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 11,
+          "name": "Doublemeat Palace",
+          "air_date": "2002-01-30 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 12,
+          "name": "Dead Things",
+          "air_date": "2002-02-06 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 13,
+          "name": "Older and Far Away",
+          "air_date": "2002-02-13 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 14,
+          "name": "As You Were",
+          "air_date": "2002-02-27 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 15,
+          "name": "Hell's Bells",
+          "air_date": "2002-03-06 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 16,
+          "name": "Normal Again",
+          "air_date": "2002-03-13 01:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 17,
+          "name": "Entropy",
+          "air_date": "2002-05-01 00:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 18,
+          "name": "Seeing Red",
+          "air_date": "2002-05-08 00:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 19,
+          "name": "Villains",
+          "air_date": "2002-05-15 00:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 20,
+          "name": "Two to Go",
+          "air_date": "2002-05-22 00:00:00"
+        },
+        {
+          "season": 6,
+          "episode": 21,
+          "name": "Grave",
+          "air_date": "2002-05-22 00:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 1,
+          "name": "Lessons",
+          "air_date": "2002-09-25 00:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 2,
+          "name": "Beneath You",
+          "air_date": "2002-10-02 00:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 3,
+          "name": "Same Time, Same Place",
+          "air_date": "2002-10-09 00:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 4,
+          "name": "Help",
+          "air_date": "2002-10-16 00:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 5,
+          "name": "Selfless",
+          "air_date": "2002-10-23 00:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 6,
+          "name": "Him",
+          "air_date": "2002-11-06 01:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 7,
+          "name": "Conversations with Dead People",
+          "air_date": "2002-11-13 01:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 8,
+          "name": "Sleeper",
+          "air_date": "2002-11-20 01:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 9,
+          "name": "Never Leave Me",
+          "air_date": "2002-11-27 01:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 10,
+          "name": "Bring on the Night",
+          "air_date": "2002-12-18 01:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 11,
+          "name": "Showtime",
+          "air_date": "2003-01-08 01:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 12,
+          "name": "Potential",
+          "air_date": "2003-01-22 01:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 13,
+          "name": "The Killer in Me",
+          "air_date": "2003-02-05 01:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 14,
+          "name": "First Date",
+          "air_date": "2003-02-12 01:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 15,
+          "name": "Get It Done",
+          "air_date": "2003-02-19 01:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 16,
+          "name": "Storyteller",
+          "air_date": "2003-02-26 01:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 17,
+          "name": "Lies My Parents Told Me",
+          "air_date": "2003-03-26 01:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 18,
+          "name": "Dirty Girls",
+          "air_date": "2003-04-16 00:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 19,
+          "name": "Empty Places",
+          "air_date": "2003-04-30 00:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 20,
+          "name": "Touched",
+          "air_date": "2003-05-07 00:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 21,
+          "name": "End of Days",
+          "air_date": "2003-05-14 00:00:00"
+        },
+        {
+          "season": 7,
+          "episode": 22,
+          "name": "Chosen",
+          "air_date": "2003-05-21 00:00:00"
+        }
+      ]
+    }
+  ]
+}
