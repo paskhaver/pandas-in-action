@@ -1,16 +1,12 @@
 category_id,category_name
 1,Arts & Culture
-2,Career & Business
 3,Cars & Motorcycles
 4,Community & Environment
 5,Dancing
 6,Education & Learning
-8,Fashion & Beauty
 9,Fitness
 10,Food & Drink
 11,Games
-12,LGBT
-13,Movements & Politics
 14,Health & Wellbeing
 15,Hobbies & Crafts
 16,Language & Ethnic Identity
@@ -26,8 +22,7 @@ category_id,category_name
 28,Religion & Beliefs
 29,Sci-Fi & Fantasy
 30,Singles
-31,Socializing
 32,Sports & Recreation
 33,Support
-34,Tech
 36,Writing
+37,Miscellaneous
